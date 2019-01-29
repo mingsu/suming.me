@@ -1,0 +1,6 @@
+*.pptx
+protected
+public/
+*.pdf
+*.doc*
+*.xls*

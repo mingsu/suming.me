@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steven Giglio on Ming Su | 苏命</title>
+    <link>http://suming.me/authors/steven-giglio/</link>
+    <description>Recent content in Steven Giglio on Ming Su | 苏命</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
+    <lastBuildDate>Sat, 15 Jun 2013 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://suming.me/authors/steven-giglio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Establishment of quantitative PCR methods for the quantification of geosmin-producing potential and Anabaena sp. in freshwater systems</title>
+      <link>http://suming.me/publication/su-2013-establishment/</link>
+      <pubDate>Sat, 15 Jun 2013 00:00:00 +0800</pubDate>
+      
+      <guid>http://suming.me/publication/su-2013-establishment/</guid>
+      <description> Highlights  We designed primers targeting for Anabaena rpoC₁ gene and geosmin synthase gene. We constructed two qPCR assays aim for quantifying general Anabaena population and geosmin-produce potential. Both qPCR were verified by simulated culture bloom and field samples, hence are applicable. Compared to traditional methods, the two qPCR assays provide fast, simple and on-site approach.  </description>
+    </item>
+    
+  </channel>
+</rss>

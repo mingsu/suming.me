@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bash shell on Ming Su | 苏命</title>
+    <link>http://suming.me/tags/bash-shell/</link>
+    <description>Recent content in bash shell on Ming Su | 苏命</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
+    <lastBuildDate>Sun, 02 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://suming.me/tags/bash-shell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting up a bash command to post on jekyll based blog</title>
+      <link>http://suming.me/post/20141102_jekyll_blog/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://suming.me/post/20141102_jekyll_blog/</guid>
+      <description>It is very time-consuming to write up the HEADLINE of your each post. This article is aiming to show you a bash command based way to set up the HEADLINE in the post.
+#!/bin/bash ## ~/bin/wa hppath=&amp;quot;~/u2/www/homepage&amp;quot; d=`date &amp;#39;+%Y-%m-%d&amp;#39;` t=`date &amp;#39;+%b %d, %Y %H:%M:%S&amp;#39;` filename=${1// /_} head=&amp;quot;---\n&amp;quot; cd ~/u2/www/homepage/_posts/ postpath=&amp;quot;~/u2/www/homepage/_posts&amp;quot; # touch $d&amp;quot;-&amp;quot;$filename&amp;quot;.md&amp;quot;` echo -e &amp;quot;$head&amp;quot; &amp;gt; &amp;quot;$d&amp;quot;-&amp;quot;$filename&amp;quot;.md vim &amp;quot;$d&amp;quot;-&amp;quot;$filename&amp;quot;.md Add execute permission on this file:
+chmod +x ~/bin/wa Usage:</description>
+    </item>
+    
+  </channel>
+</rss>

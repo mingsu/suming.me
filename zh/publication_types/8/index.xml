@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 on 苏命的个人网站</title>
+    <link>http://suming.me/zh/publication_types/8/</link>
+    <description>Recent content in 8 on 苏命的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
+    <lastBuildDate>Sun, 29 Jul 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://suming.me/zh/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>智慧水源水质监测与预警管理系统v1.0</title>
+      <link>http://suming.me/zh/publication/smartsourcewater/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/publication/smartsourcewater/</guid>
+      <description>软件著作权基本信息 版本号：v1.0 登记号：2018SR539952 主要功能 在云平台中整合水源地在线和实验室监测分析数据，通过实时获取监测数据</description>
+    </item>
+    
+    <item>
+      <title>水源地藻类分析管理系统</title>
+      <link>http://suming.me/zh/publication/algaemanagement/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/publication/algaemanagement/</guid>
+      <description>软件著作权基本信息 版本号：v1.0 登记号：2018SR539959 主要功能 在云平台中基于用户需求定制藻类分析，获取实时藻类数据，优势藻种类、</description>
+    </item>
+    
+    <item>
+      <title>藻类计数系统v1.4</title>
+      <link>http://suming.me/zh/publication/cctv1.4/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/publication/cctv1.4/</guid>
+      <description>软件著作权基本信息 版本号：v1.4 登记号：2018SR525480 主要功能 辅助显微镜下细胞计数，藻类数据库查询，计数数据、镜检图片自动归档，</description>
+    </item>
+    
+  </channel>
+</rss>

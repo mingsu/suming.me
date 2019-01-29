@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gene on Ming Su | 苏命</title>
+    <link>http://suming.me/tags/gene/</link>
+    <description>Recent content in Gene on Ming Su | 苏命</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
+    <lastBuildDate>Sun, 22 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://suming.me/tags/gene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2-MIB gene detection of source water reservoirs in Shanghai</title>
+      <link>http://suming.me/project/su2018molecular/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://suming.me/project/su2018molecular/</guid>
+      <description>Project Information From: Shanghai urban construction investment co., LTD Founding: ￥0.277 M Host: Ming Su Period: Jul, 2018 - Jun, 2019 Project Introduction 基于2-MIB功能基因构建实时荧光定量PCR方法，用于检测水体产嗅潜力。</description>
+    </item>
+    
+  </channel>
+</rss>

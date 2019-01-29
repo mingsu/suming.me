@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Burch on 苏命的个人网站</title>
+    <link>http://suming.me/zh/authors/michael-burch/</link>
+    <description>Recent content in Michael Burch on 苏命的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
+    <lastBuildDate>Tue, 25 Sep 2018 12:30:55 +0000</lastBuildDate>
+    
+	<atom:link href="http://suming.me/zh/authors/michael-burch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A review of Cell Counting Tool (CCT)</title>
+      <link>http://suming.me/zh/post/20180926_cct_review/</link>
+      <pubDate>Tue, 25 Sep 2018 12:30:55 +0000</pubDate>
+      
+      <guid>http://suming.me/zh/post/20180926_cct_review/</guid>
+      <description>Counting The CCT is a powerful windows-based software tool developed to record and process algal cell count data while it is being generated manually by a microscope technician.
+The input fields can be customised for samples from any site. The user can select the types and species composition from a predetermined list, which includes data for a comprehensive range of phytoplankton and includes all algal classes and cyanobacteria.
+Counting options include the user’s preferences of full field of view, transects, at the chosen magnification.</description>
+    </item>
+    
+    <item>
+      <title>Succession and interaction of surface and subsurface cyanobacterial blooms in oligotrophic/mesotrophic reservoirs: a case study in Miyun Reservoir</title>
+      <link>http://suming.me/zh/publication/su-2019-succession/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/publication/su-2019-succession/</guid>
+      <description> Highlights  High light and nutrient at pre-bloom stage are essential for surface cyanobacteria. Surface cell decline enhanced underwater light thus promoted subsurface cyanobacteria. Subsurface cyanobacteria prefer to grow in shallow oligotrophic/deep eutrophic water.  </description>
+    </item>
+    
+    <item>
+      <title>Establishment of quantitative PCR methods for the quantification of geosmin-producing potential and Anabaena sp. in freshwater systems</title>
+      <link>http://suming.me/zh/publication/su-2013-establishment/</link>
+      <pubDate>Sat, 15 Jun 2013 00:00:00 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/publication/su-2013-establishment/</guid>
+      <description> Highlights  We designed primers targeting for Anabaena rpoC₁ gene and geosmin synthase gene. We constructed two qPCR assays aim for quantifying general Anabaena population and geosmin-produce potential. Both qPCR were verified by simulated culture bloom and field samples, hence are applicable. Compared to traditional methods, the two qPCR assays provide fast, simple and on-site approach.  </description>
+    </item>
+    
+  </channel>
+</rss>
