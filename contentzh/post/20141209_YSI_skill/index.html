@@ -1,0 +1,61 @@
+---
+title: "Using kermit for downloading data from YSI-terminal 650MDS under linux"
+date: 2014-12-09T18:28:54
+lastmod: 2014-12-09T18:28:54
+draft: false
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors:
+    - Ming Su
+
+tags:
+    - YSI
+    - ECO-watch
+    - kermit
+    - linux
+    - water quality
+
+summary: "Using kermit for downloading data from YSI-terminal 650MDS under linux"
+
+---
+
+
+
+<div id="aim" class="section level2">
+<h2>Aim</h2>
+<p>The offical ECO-Watch software only support on Windows systems.</p>
+<p>By using <strong>kermit</strong>, we can simply download data in YSI-terminal
+650DMS through serial port connection.</p>
+</div>
+<div id="installation" class="section level2">
+<h2>Installation</h2>
+<pre><code> apt-get install ckermit</code></pre>
+<p>or</p>
+<pre><code>yum install ckermit</code></pre>
+<p>or</p>
+<pre><code>pacman -S ckermit</code></pre>
+</div>
+<div id="configuration" class="section level2">
+<h2>configuration</h2>
+<pre><code>cat ~/.kermrc 
+set line /dev/ttyUSB0
+set speed 9600
+set carrier-watch off
+set handshake none
+set flow-control none
+robust
+set parity none
+set stop-bits 1
+set file type bin
+set file name lit
+set rec pack 1000
+set send pack 1000
+set window 5</code></pre>
+</div>
+<div id="usage" class="section level2">
+<h2>usage</h2>
+<p>On linux terminal:</p>
+<pre><code>sudo kermit -c</code></pre>
+<p>On YSI-terminal MDS650:</p>
+<pre><code>File/Upload to PC/</code></pre>
+<p>select the file and press <strong>ENTER</strong></p>
+</div>

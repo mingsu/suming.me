@@ -1,0 +1,110 @@
+---
+title: My favorate tools list
+
+# Schedule page publish date.
+date: 2015-02-16T12:30:55
+lastmod: 2015-02-16T12:30:55
+draft: false
+
+
+authors:
+  - Ming Su
+abstract: >-
+  My favorate tools list.
+abstract_short: My favorate tools list.
+
+# Is this a featured talk? (true/false)
+selected: false
+
+# Projects (optional).
+#   Associate this talk with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references
+#   `content/project/internal-project/index.md`.
+#   Otherwise, set `projects` to be empty.
+# projects:
+
+# Tags (optional).
+tags:
+    - linux
+    - ubuntu
+    - debian
+    - fvwm
+    - zsh
+    - mutt
+    - wps
+    - okular
+    - R
+    - matlab
+    - conky
+    - ranger
+    - remind
+    - wyrd
+    - html5
+    - firefox
+    - uzbl
+    - abook
+    - vim
+    - remmina
+    - ssh
+    - mocp
+    - vlc
+    - mysql
+    - iciba.com
+    - virtualbox
+    - qalc
+    - texlive
+    - tmux
+    - python
+    - nutstore
+    - lftpd
+    - gimp
+
+
+# Links (optional).
+url_pdf: ''
+url_slides: ''
+url_video: ''
+url_code: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: ''
+  focal_point: Right
+
+
+
+---
+
+I prefer to use command line tools (CLI). Here is a list that I
+am using and enjoying.
+
+- OS: debian/ubuntu (95%) + windows(5%)
+- windows manager: FVWM
+- reminder: conky+remind+wyrd
+- calendar: conky+remind+web
+- shell: zsh+tmux
+- mail: mutt/getmail/msmtp
+- contactor: abook
+- document (doc): markdown (60%) + MS word (30%, under windows) + wps (10%)
+- presentation: MS powerpoint (70%, under windows) + html5 slides (30%)
+- scientific publish/thesis: latex (texlive)
+- pdf reader: okular
+- note: note
+- editor: vim
+- remote operating: ssh
+- remote desktop: remmina
+- virtual OS: virtualbox
+- database: mysql
+- file manager: ranger
+- internet expolor: firefox + uzbl
+- ftp: lftpd
+- image editor: gimp
+- music player: mocp
+- video player: vlc
+- data analysis: R/matlab/python
+- dictionary: iciba.com
+- net disk: nutstore
+
+

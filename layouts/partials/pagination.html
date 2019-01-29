@@ -1,0 +1,29 @@
+{{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+<nav>
+  <ul class="pagination justify-content-center">
+    {{ if .Paginator.HasPrev }}
+    <li class="page-item"><a class="page-link" href="{{ .Paginator.Prev.URL | relLangURL }}"> &larr; {{ i18n "previous" }} </a></li>
+    {{ end }}
+    {{ if .Paginator.HasNext }}
+    <li class="page-item"><a class="page-link" href="{{ .Paginator.Next.URL | relLangURL }}"> {{ i18n "next" }} &rarr;</a></li>
+    {{ end }}
+  </ul>
+</nav>
+{{ end }}
+
+<script type="text/javascript">
+document.addEventListener('keyup', function(e) {
+  if (e.target.nodeName.toUpperCase() != 'BODY') return;
+  var url = false;
+  if (e.which == 37) {  // Left arrow
+    {{ if .Paginator.HasPrev }}
+    url = '{{ .Paginator.Prev.URL }}';
+    {{ end }}
+  } else if (e.which == 39) {  // Right arrow
+    {{ if .Paginator.HasNext }}
+    url = '{{ .Paginator.Next.URL }}';
+    {{ end }}
+  }
+  if (url) window.location = url;
+});
+</script>

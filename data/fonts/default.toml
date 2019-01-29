@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Default"
+
+# Optional Google font URL
+google_fonts = "Nunito|Sahitya|Noto+Sans|Roboto+Mono"
+
+# Font families
+heading_font = "Nunito', 'Sahitya"
+body_font = "Nunito', 'Sahitya"
+nav_font = "Nunito', 'Sahitya"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "18"
+font_size_small = "14"

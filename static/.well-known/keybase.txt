@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mingsu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://suming.me
+  * I am mingsu (https://keybase.io/mingsu) on keybase.
+  * I have a public key ASCM2dE5mO7v-rDCayPizcibmkaUBCK-nkXI31KXWOyXBQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b940b3e90a5e7a8f7dd5e1f7bfb4224d8029e449d6a822ab59059ce46ac85df60a",
+      "host": "keybase.io",
+      "kid": "01208cd9d13998eeeffab0c26b23e2cdc89b9a46940422be9e45c8df529758ec97050a",
+      "uid": "7ad91e0659238c2ba425ec52d58bbd19",
+      "username": "mingsu"
+    },
+    "merkle_root": {
+      "ctime": 1548661816,
+      "hash": "d42540ce34c5461075a118510c5d30f2ef85ad6f58fae57c25b15c449963f8090238fbe18596712d59a016f9aa95f8a67f3099b515a1318c29da46b1208e8747",
+      "hash_meta": "8f0fae9639ab6f75e24242c2437ff0b291ca00b41adae86a4a2c12cffcc7b270",
+      "seqno": 4634243
+    },
+    "service": {
+      "entropy": "+/J4MtDaIj1KPAjuUUDgG5/t",
+      "hostname": "suming.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.2"
+  },
+  "ctime": 1548661848,
+  "expire_in": 504576000,
+  "prev": "607d003cb7791b1a8eaf6d1e039c8db5ffe3e8365f19dd2d0c539c52c969952b",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjNnROZju7/qwwmsj4s3Im5pGlAQivp5FyN9Sl1jslwUKp3BheWxvYWTESpcCCMQgYH0APLd5GxqOr20eA5yNtf/j6DZfGd0tDFOcUslplSvEIDBJGqqOETEWruyF7dxthlQ/0aFtuSOGZ1GRfl8ngJy5AgHCo3NpZ8RA3fnzj5DVBYY/BGClO2r4SshAlzj7rsWa1tUe6dUrEyqwvmRHLyWWUsiEaxBWjniXyNepyfdE9mv5Itrdp68VDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOQvmzMCsAFom37wceSqdzwX21ChZ1iKXZcJpx5lWZ02o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mingsu
+
+==================================================================

@@ -1,0 +1,232 @@
+---
+title: "Schedule your time by using remind, wyrd, conky as well as rem2html"
+
+date: 2014-11-21T21:38:17
+lastmod: 2014-11-23T00:00:00
+draft: false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors:
+    - Ming Su
+
+tags:
+    - remind
+    - wyrd
+    - rem2html
+    - linux
+    - Schedule
+
+---
+
+
+
+
+
+How do you schedule your time?
+-----------------
+
+I was using **[gcalcli](https://github.com/insanum/gcalcli)** for
+couple years, however, it is become very difficult to use in
+mainland China, due to the **GFW** policy; on the other hand, I
+prefer to using my own server other than using the server from
+others, in this case **google calendar**.
+
+So I start to find a better solution. Fortunately, I managed it
+by using
+**[remind](http://www.roaringpenguin.com/products/remind)**,
+**[wyrd](http://pessimization.com/software/wyrd/)**,
+**[conky](http://conky.sourceforge.net/)** and
+**[rem2html](https://github.com/SwissKid/rem2html)**.
+
+Screenshot
+--------
+
+
+![remind_conky screen shot](/post/remind_conky.png  "remind_conky")
+<fc>Screen shot of my schedule based on remind and conky
+</fc>
+
+remind
+---------------
+
+Plain text is the most portable, munge-able, searchable,
+dependable, and software-agnostic file format there is. We've
+covered how to track your tasks and projects in a todo.txt file;
+today we're going to extend our plain text personal information
+manager to include a full-on calendar, using an old school UNIX
+program called
+**[Remind](http://www.roaringpenguin.com/products/remind)**.
+
+
+**[Remind](http://www.roaringpenguin.com/products/remind)** is
+really a powerful tool to schedule your time.
+I am not going to the detail for the usage of 
+**[Remind](http://www.roaringpenguin.com/products/remind)**, you
+might go to the shell, and type:
+
+```
+$man remind
+```
+
+For example, you can shedule a date with your GF/BF like this:
+
+```
+REM 2014/12/24 MSG Dating this evening with honey.
+```
+
+Or you can check your salary on the first day of each month:
+
+```
+REM 1 MSG Checking salary.
+```
+
+Or have a meething:
+
+```
+REM 2014/11/25 AT 9:00 MSG Meeting now
+```
+
+
+wyrd
+------------
+
+![wyrd](/post/wyrd.png "wyrd")
+<fc>Screenshot of wyrd</fc>
+
+**[Remind](http://www.roaringpenguin.com/products/remind)** is
+very powerful but not handy enough, as you have to remeber lots
+of commands. If you use it in a very simple way, just like
+me, 
+**[wyrd](http://pessimization.com/software/wyrd/)** is a good
+choice. 
+
+ Speaking of regularly using - 
+**[wyrd](http://pessimization.com/software/wyrd/)** 
+will be used just as much as
+**[Remind](http://www.roaringpenguin.com/products/remind)**. In
+addition to the easy to navigate display of events it
+ also has a fully-configurable set of hotkeys that, for the
+ little that I've used them, seem to work a lot like Vim. There
+ happen to be two things that I like best about 
+**[wyrd](http://pessimization.com/software/wyrd/)** 
+ right from the start. The first is the fact that it's written in
+ OCaml. The second is that the developer took the time to make a
+ well-orchestrated SWF file that walks through some sample uses.
+ It just warms my little heart to see a developer caring about
+ their users. ;-) 
+
+For me, the most fantastic usage of 
+**[wyrd](http://pessimization.com/software/wyrd/)** is its
+quick_event function, similar to 
+**[gcalcli](https://github.com/insanum/gcalcli)**.
+
+You could use it in a smart way, like this:
+
+```
+wyrd --add 'Have dinner with John Fri 6pm.'
+wyrd --add 'Tomorrow 7:30am prepare breakfast.'
+```
+
+and also there are a lot more handy short cut for using 
+**[Remind](http://www.roaringpenguin.com/products/remind)**
+by 
+**[wyrd](http://pessimization.com/software/wyrd/)**.
+
+conky
+------------------
+
+You can also add such line in your **conkyrc** script, then you
+will get a week scale schedule calendar on your desktop.
+
+```
+${execi 300 remind -c+1 -n ~/.reminders}
+```
+
+In addition, you can get a schedule summary in text style by
+adding this line to your **conkyrc** file:
+
+```
+${execi 300 remind -n ~/.reminders | sort}
+```
+
+rem2html
+----------------
+
+Sometimes, you might want to public your calendar on your blog,
+you can use 
+**[rem2html](https://github.com/SwissKid/rem2html)** for
+generating a static web calendar.
+
+You can have a look at mine via:
+[My calendar](/cal/)
+
+Usage:
+
+```
+remind -ps12 /home/ming/.reminders | sed 's/^\(.*:.*:.*m\) .*$/\1 BUSY/g' | /home/ming/bin/rem2html --title "ming's calendar"> /var/www/cal/index.html
+```
+
+
+The **sed** command here is aiming to replace your schedule
+detail to **BUSY**.
+
+**-ps12** means you will publish the following 12 month calendar
+to the web page.
+
+
+reminding 
+----------------------
+
+### *text message* to your cell phone
+
+You might able to find some particular method to send text
+message from shell to your cell phone.
+
+Here are some hint:
+
+1. [How to Send SMS Using Email to Major US Cellphone
+   Carriers](http://www.thegeekstuff.com/2010/08/sms-using-email/)
+2. if you are a china telecom user, you can use their free
+   service indirectly: 
+        i setup your china telecom email address;
+        i setup the email system text to you in its setup;
+        i send a reminder email to your china telecom email
+          address by using **[mutt](http://www.mutt.org)**, then
+          your cell phone will receive a text message.
+3. if you are a china mobile user, you can txet to your cell
+   phone from use some shell-drived-fetion on your system; one of
+   the well maintained one is
+   **[FetionRobot](http://www.it-adv.net)**
+
+### email and desktop reminder
+
+You can also send email to you for remindering, I believe there
+are many ways to do this. In my case, I using
+**[mutt](http://www.mutt.org)** for email.
+
+The basic usage of **[mutt](http://www.mutt.org)**:
+
+```
+echo email body | mutt -s subject send-to-email-address
+```
+
+Combined with 
+**[remind](http://www.roaringpenguin.com/products/remind)**
+
+You might also want to get a desktop reminder by **gxmessage**,
+you can install it by (debian like system):
+
+```
+apt-get install gxmessage
+```
+
+And you can start **remind** server and enable both **gxmessage**
+reminder and **mail** reminder by using:
+
+```
+$remind -z -k'gxmessage -title "reminder" -center %s && echo %s | mutt -s %s YOUREMAILADRESSn &' ~/.reminders &
+```
+
+You can also add this to your **.xinitrc** file.
+
+

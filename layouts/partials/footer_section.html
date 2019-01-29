@@ -1,0 +1,32 @@
+<footer class="site-footer">
+  <!-- {{ with .Site.GetPage "privacy.md" }} -->
+  <!-- <p class="powered-by"> -->
+    <!-- {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }} -->
+  <!-- </p> -->
+  <!-- {{ end }} -->
+
+  <HR style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=3>
+  <p class="powered-by">
+    {{ with .Site.Copyright }}{{ . | markdownify}} &emsp; &middot; &emsp; {{ end }}
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    target="_blank" rel="noopener">License</a> &emsp; &middot; &emsp;
+  {{ with .Site.GetPage "privacy.md" }}
+    {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+  {{ end }}
+
+
+    <!-- Powered by the -->
+    <!-- <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for -->
+    <!-- <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>. -->
+
+    {{ if ne .Type "docs" }}
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    {{ end }}
+  </p>
+</footer>

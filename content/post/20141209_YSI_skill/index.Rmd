@@ -1,0 +1,85 @@
+---
+title: "Using kermit for downloading data from YSI-terminal 650MDS under linux"
+date: 2014-12-09T18:28:54
+lastmod: 2014-12-09T18:28:54
+draft: false
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors:
+    - Ming Su
+
+tags:
+    - YSI
+    - ECO-watch
+    - kermit
+    - linux
+    - water quality
+
+summary: "Using kermit for downloading data from YSI-terminal 650MDS under linux"
+
+---
+
+Aim
+-------
+
+The offical ECO-Watch software only support on Windows systems.
+
+By using **kermit**, we can simply download data in YSI-terminal
+650DMS through serial port connection.
+
+Installation
+---------
+
+```
+ apt-get install ckermit
+```
+
+or 
+
+```
+yum install ckermit
+```
+
+or 
+ 
+```
+pacman -S ckermit
+```
+
+configuration
+---------
+
+```
+cat ~/.kermrc 
+set line /dev/ttyUSB0
+set speed 9600
+set carrier-watch off
+set handshake none
+set flow-control none
+robust
+set parity none
+set stop-bits 1
+set file type bin
+set file name lit
+set rec pack 1000
+set send pack 1000
+set window 5
+```
+
+usage
+--------------
+
+On linux terminal:
+
+```
+sudo kermit -c
+```
+
+On YSI-terminal MDS650:
+
+```
+File/Upload to PC/
+```
+
+select the file and press **ENTER**
+
+

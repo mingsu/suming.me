@@ -1,0 +1,37 @@
+---
+title: "The solution for Google searching in mainland China"
+date: 2014-12-06T00:00:00
+lastmod: 2014-12-06T00:00:00
+draft: false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors:
+    - Ming Su
+
+tags:
+    - google scholar
+    - research
+
+summary: "The solution for Google searching in mainland China"
+---
+
+I have recently found a good solution for searching with google.
+
+It is not based on **vpn** nor **host** file.
+
+Just simply use
+
+[http://www.gfsoso.com](http://www.gfsoso.com)
+
+for **google** main sites
+
+and use
+
+[http://www.gfsoso.com/scholar](http://www.gfsoso.com/scholar)
+
+for **google scholar**,
+
+and so on.
+
+Good luck!
+

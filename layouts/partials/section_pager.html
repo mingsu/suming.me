@@ -1,0 +1,29 @@
+<div class="post-nav">
+  {{if .PrevInSection}}
+  <div class="post-nav-item">
+    <a href="{{.PrevInSection.Permalink}}" rel="prev">&larr; {{.PrevInSection.Title}}</a>
+  </div>
+  {{end}}
+  {{if .NextInSection}}
+  <div class="post-nav-item">
+    <a href="{{.NextInSection.Permalink}}" rel="next">{{.NextInSection.Title}} &rarr;</a>
+  </div>
+  {{end}}
+</div>
+
+<script type="text/javascript">
+document.addEventListener('keyup', function(e) {
+  if (e.target.nodeName.toUpperCase() != 'BODY') return;
+  var url = false;
+  if (e.which == 37) {  // Left arrow
+    {{ if .PrevInSection }}
+    url = '{{ .PrevInSection.RelPermalink }}';
+    {{ end }}
+  } else if (e.which == 39) {  // Right arrow
+    {{ if .NextInSection }}
+    url = '{{ .NextInSection.RelPermalink }}';
+    {{ end }}
+  }
+  if (url) window.location = url;
+});
+</script>

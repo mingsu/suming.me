@@ -1,0 +1,88 @@
+# Configuration of Academic
+# Documentation: https://sourcethemes.com/academic/
+#
+# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
+# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
+
+# Title of your site
+title = "Ming Su | 苏命"
+
+# The URL of your site.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "http://suming.me/"
+
+# Enter a copyright notice to display in the site footer.
+# To display a copyright symbol, type `&copy;`.
+# footer = "&copy; Ming Su 2014 -2019"
+copyright = "&copy; [Ming Su](/) 2014 -2019"
+
+# Enable analytics by entering your Google Analytics tracking ID
+googleAnalytics = "UA-133286354-1"
+
+# Enable comments by entering your Disqus shortname
+# disqusShortname = "disqus_35ykKNJPvZ"
+disqusShortname = "suming-me"
+
+############################
+## Advanced options below ##
+############################
+
+# Name of Academic theme folder in `themes/`.
+theme = "academic"
+
+# Get last modified date for content from Git?
+enableGitInfo = false
+
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "en"
+hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
+defaultContentLanguageInSubdir = false
+
+paginate = 10  # Number of items per page in paginated lists.
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+
+[outputs]
+  home = [ "HTML", "CSS", "RSS", "JSON" ]
+  section = [ "HTML", "RSS" ]
+
+# Configure BlackFriday Markdown rendering.
+#   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
+[blackfriday]
+  hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
+	angledQuotes = false
+	latexDashes = true
+  extensions = ["backslashLineBreak"]
+
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  author = "authors"
+
+
+[languages.en.params]
+  address = "Building 5 Room 309, Shuangqing Rd. 18, Haidian, Beijing, 100085."
+  office_hours = "Monday to Friday (08:30 - 17:30); or email for appointment"
+  date_format = "Jan 2, 2006"
+
+[languages.en.params.publications]
+  # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
+  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  date_format = "Jan, 2006"
+
+[languages.zh.params]
+# Contact Widget setup
+  address = "北京市海淀区双清路18号，5号楼309室，100085."
+# Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
+  office_hours = "周一至周五 （08:30 - 17:30），或邮件联系。"
+  date_format = "2006年1月2日"
+
+[languages.zh.params.publications]
+  # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
+  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  date_format = "2006年1月"
+

@@ -1,0 +1,53 @@
+---
+title: "Setting up a bash command to post on jekyll based blog"
+
+date: 2014-11-02
+lastmod: 2014-11-13
+draft: false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors: 
+    - "Ming Su"
+
+tags:
+    - linux
+    - ubuntu
+    - bash shell
+
+summary: "Create a beautifully simple website or blog in under 10 minutes."
+
+---
+
+It is very time-consuming to write up the *HEADLINE* of your each
+post. This article is aiming to show you a bash command based way
+to set up the *HEADLINE* in the post.
+
+```
+#!/bin/bash
+## ~/bin/wa
+hppath="~/u2/www/homepage"
+d=`date '+%Y-%m-%d'`
+t=`date '+%b %d, %Y %H:%M:%S'`
+filename=${1// /_}
+head="---\n"
+cd ~/u2/www/homepage/_posts/
+postpath="~/u2/www/homepage/_posts"
+# touch $d"-"$filename".md"`
+echo -e "$head" > "$d"-"$filename".md
+vim "$d"-"$filename".md
+```
+
+Add execute permission on this file:
+
+```
+chmod +x ~/bin/wa
+```
+
+
+Usage:
+
+```
+wa "your article title"
+```
+
+

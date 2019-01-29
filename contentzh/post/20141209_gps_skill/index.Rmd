@@ -1,0 +1,83 @@
+---
+title: "Download or upload waypoints or tracks from gps under GNU linux by gpsbabel"
+date: 2014-12-09T17:29:10
+lastmod: 2014-12-09T17:29:10
+draft: false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors:
+    - Ming Su
+
+tags:
+    - gps
+    - garmin
+    - gpsbabel
+    - kml
+    - gpx
+    - GNU/linux
+
+summary: "Download or upload waypoints or tracks from gps under GNU linux by gpsbabel"
+
+---
+
+Aim
+-----
+
+I have got a garmin **etrex** gps which is very old but working
+pretty well; its major work is for sampling sites navigation in
+lakes/reservoirs.
+
+By using [GPSbabel](http://www.gpsbabel.org), I can easily
+download/upload waypoints/tracks from gps devices under GNU linux.
+
+communication through rs232 protocal
+---------
+
+My workstation doesn't have a serial port, so I use a
+**usb2serial** cable for doing this. In my case, I could find my
+serial device here:
+
+{% highlight bash %}
+/dev/ttyUSB0
+{% endhighlight %}
+
+download/upload waypoint
+---------
+
+For using [GPSbabel](http://www.gpsbabel.org), you will need to
+know how to do at least two things: read data from a file, and
+write it to another file.  There are four basic options you need
+to know to do those things:
+
+{% highlight bash %}
+Command             Meaning
+-i format           Set input format
+-f filename         Read file
+-o format           Set output format
+-F filename         Write output file
+{% endhighlight %}
+
+example 1: download from gps (garmin serial) and write to
+**.gpx** file
+
+{% highlight bash %}
+gpsbabel -i garmin -f /dev/ttyUSB0 -o gpx -F waypoint.gpx
+{% endhighlight %}
+
+or to **.kml** file
+
+{% highlight bash %}
+gpsbabel -i garmin -f /dev/ttyUSB0 -o gpx -F waypoint.kml
+{% endhighlight %}
+
+example 2: upload from **.gpx** or **.kml** file to gps
+
+{% highlight bash %}
+gpsbabel -i garmin -f /dev/ttyUSB0 -o gpx -F waypoint.gpx
+{% endhighlight %}
+
+or
+
+{% highlight bash %}
+gpsbabel -i garmin -f /dev/ttyUSB0 -o gpx -F waypoint.kml
+{% endhighlight %}

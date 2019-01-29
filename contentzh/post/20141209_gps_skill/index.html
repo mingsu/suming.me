@@ -1,0 +1,72 @@
+---
+title: "Download or upload waypoints or tracks from gps under GNU linux by gpsbabel"
+date: 2014-12-09T17:29:10
+lastmod: 2014-12-09T17:29:10
+draft: false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors:
+    - Ming Su
+
+tags:
+    - gps
+    - garmin
+    - gpsbabel
+    - kml
+    - gpx
+    - GNU/linux
+
+summary: "Download or upload waypoints or tracks from gps under GNU linux by gpsbabel"
+
+---
+
+
+
+<div id="aim" class="section level2">
+<h2>Aim</h2>
+<p>I have got a garmin <strong>etrex</strong> gps which is very old but working
+pretty well; its major work is for sampling sites navigation in
+lakes/reservoirs.</p>
+<p>By using <a href="http://www.gpsbabel.org">GPSbabel</a>, I can easily
+download/upload waypoints/tracks from gps devices under GNU linux.</p>
+</div>
+<div id="communication-through-rs232-protocal" class="section level2">
+<h2>communication through rs232 protocal</h2>
+<p>My workstation doesn’t have a serial port, so I use a
+<strong>usb2serial</strong> cable for doing this. In my case, I could find my
+serial device here:</p>
+<p>{% highlight bash %}
+/dev/ttyUSB0
+{% endhighlight %}</p>
+</div>
+<div id="downloadupload-waypoint" class="section level2">
+<h2>download/upload waypoint</h2>
+<p>For using <a href="http://www.gpsbabel.org">GPSbabel</a>, you will need to
+know how to do at least two things: read data from a file, and
+write it to another file. There are four basic options you need
+to know to do those things:</p>
+<p>{% highlight bash %}
+Command Meaning
+-i format Set input format
+-f filename Read file
+-o format Set output format
+-F filename Write output file
+{% endhighlight %}</p>
+<p>example 1: download from gps (garmin serial) and write to
+<strong>.gpx</strong> file</p>
+<p>{% highlight bash %}
+gpsbabel -i garmin -f /dev/ttyUSB0 -o gpx -F waypoint.gpx
+{% endhighlight %}</p>
+<p>or to <strong>.kml</strong> file</p>
+<p>{% highlight bash %}
+gpsbabel -i garmin -f /dev/ttyUSB0 -o gpx -F waypoint.kml
+{% endhighlight %}</p>
+<p>example 2: upload from <strong>.gpx</strong> or <strong>.kml</strong> file to gps</p>
+<p>{% highlight bash %}
+gpsbabel -i garmin -f /dev/ttyUSB0 -o gpx -F waypoint.gpx
+{% endhighlight %}</p>
+<p>or</p>
+<p>{% highlight bash %}
+gpsbabel -i garmin -f /dev/ttyUSB0 -o gpx -F waypoint.kml
+{% endhighlight %}</p>
+</div>

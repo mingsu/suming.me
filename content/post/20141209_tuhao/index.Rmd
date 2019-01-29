@@ -1,0 +1,27 @@
+---
+title: "土豪与屌丝"
+
+date: 2014-11-09T13:45:44
+lastmod: 2014-11-13T00:00:00
+draft: false
+
+authors:
+    - Ming Su
+
+tags:
+    - joke
+
+---
+
+正常人：
+
+<img src="/post/normal.png" alt="normal">
+
+屌丝:
+
+<img src="/post/diaosi.png" alt="diaosi">
+
+土豪：
+
+<img src="/post/tuhao.png" alt="tuhao">
+

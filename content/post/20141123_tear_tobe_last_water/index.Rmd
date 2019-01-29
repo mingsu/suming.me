@@ -1,0 +1,75 @@
+---
+title: "Don't let your tear be the last drop of water in the world- my peasonal logo"
+
+date: 2014-11-21T21:38:17
+lastmod: 2014-11-23T10:29:00
+draft: false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors:
+    - Ming Su
+
+tags:
+    - logo
+    - water
+    - environmental
+    - Ming Su
+
+---
+
+Inspired by 
+
+> Don't let your tear be the last drop of water in the world
+
+I designed my peasonal logo.
+
+<img src="/post/logo.png" alt="Ming's logo">
+<fc>My peasonal logo</fc>
+
+This logo is basically composed of two drop tears and one drop
+water. The water-drop in the left side means the last drop water
+in the world, but also it means all bios in the planet  share the
+same drop of water.
+
+<img src="/post/drought.jpg" alt="drought"
+width="700">
+<fc>Water give the planet life. Picture from
+http://protectingourwaters.wordpress.com</fc>
+
+<br>
+<br>
+**SAVE WATER, SAVE OURSELF.**
+
+---------
+
+The water-drops in the right side are the tears reflecting the
+sadness of human-beings.
+
+<img src="/post/waterpollution.jpg" alt="water pollution"
+width="700">
+<fc>Water pollution will kill ourself. Picture from
+http://ufuppsala.se</fc>
+
+<br>
+<br>
+
+**STOP POLLUTING, STOP KILLING OUR CHILDREN**
+
+---------
+
+As it is my peasonal logo, these three drops draw the outline of
+my name: Ming Su.
+
+The gap between the left drop and middle drop is "S", and the
+drops of tear are "M".
+
+
+> **One Earth, one drop water**
+
+<img src="/post/logo_long.png" alt="ming's long logo"
+width="700">
+<fc>My peasonal logo</fc>
+
+
+
+
