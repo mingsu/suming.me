@@ -25,6 +25,7 @@ system("mv .git .git_github")
 system("mv .git_rcees .git")
 system("mv .gitignore .gitignore_github")
 system("mv .gitignore_rcees .gitignore")
+system("mv docs suming.me")
 
 
 
