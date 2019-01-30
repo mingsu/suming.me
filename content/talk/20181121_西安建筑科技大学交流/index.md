@@ -9,7 +9,7 @@ time_start = 2018-11-21T10:00:00
 time_end = 2018-11-21T11:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Ming Su"]
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -44,10 +44,11 @@ tags = []
 #   Otherwise, set `slides = ""`.
 slides = ""
 
+url_external = "http://emes.xauat.edu.cn/info/1124/1687.htm"
 # Links (optional).
 url_pdf = ""
 url_slides = "slides/protected/20181121_西安建筑科技大学交流/20181121_西安建筑科技大学交流_苏命.pptx"
-url_video = "http://emes.xauat.edu.cn/info/1124/1687.htm"
+url_video = ""
 url_code = ""
 
 

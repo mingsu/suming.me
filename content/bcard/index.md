@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Cards"
 date = 2019-01-26T00:00:00
 math = false
 highlight = false

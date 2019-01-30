@@ -43,10 +43,15 @@ h3.article-title{
   font-size: 1.2rem;
 }
 
+h2 a:hover,
+li a:hover,
 a {
   text-decoration: underline;
 }
 
+h2 a,
+li a,
+a.badge,
 a.page-link,
 a.btn-outline-primary,
 a.btn-primary,
@@ -60,3 +65,4 @@ a:hover,
 a:focus {
   text-decoration: none;
 }
+

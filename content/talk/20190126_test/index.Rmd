@@ -32,12 +32,12 @@ selected: false
 #   E.g. `internal-project` references
 #   `content/project/internal-project/index.md`.
 #   Otherwise, set `projects` to be empty.
-projects:
-  - internal-project
+# projects:
+#   - internal-project
 
 # Tags (optional).
-tags:
-  - Example Tag
+# tags:
+#   - Example Tag
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.

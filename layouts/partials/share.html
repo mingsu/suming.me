@@ -1,0 +1,74 @@
+{{ if and .Site.Params.sharing (ne .Params.share false) }}
+<div class="addthis_inline_share_toolbox"></div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5c504ae56110f55a"></script>
+{{ end }}
+
+
+
+<!-- 或者使用如下代码： -->
+<!-- {{ if and .Site.Params.sharing (ne .Params.share false) }} -->
+<!-- <div class="share-box" aria-hidden="true"> -->
+  <!-- <ul class="share"> -->
+    <!-- <li> -->
+      <!-- <a class="twitter" -->
+         <!-- href="https://twitter.com/intent/tweet?text={{ .Title | html }}&amp;url={{ .Permalink | html }}" -->
+         <!-- target="_blank" rel="noopener"> -->
+        <!-- <i class="fab fa-twitter"></i> -->
+      <!-- </a> -->
+    <!-- </li> -->
+    <!-- <li> -->
+      <!-- <a class="facebook" -->
+         <!-- href="https://www.facebook.com/sharer.php?u={{ .Permalink | html }}" -->
+         <!-- target="_blank" rel="noopener"> -->
+        <!-- <i class="fab fa-facebook-f"></i> -->
+      <!-- </a> -->
+    <!-- </li> -->
+    <!-- <li> -->
+      <!-- <a class="linkedin" -->
+         <!-- href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ .Permalink | html }}&amp;title={{ .Title | html }}" -->
+         <!-- target="_blank" rel="noopener"> -->
+        <!-- <i class="fab fa-linkedin-in"></i> -->
+      <!-- </a> -->
+    <!-- </li> -->
+    <!-- <li> -->
+      <!-- <a class="weibo" -->
+         <!-- href="http://service.weibo.com/share/share.php?url={{ .Permalink | html }}&amp;title={{ .Title | html }}" -->
+         <!-- target="_blank" rel="noopener"> -->
+        <!-- <i class="fab fa-weibo"></i> -->
+      <!-- </a> -->
+    <!-- </li> -->
+    <!-- <li> -->
+      <!-- <a class="qq" -->
+         <!-- href="http://connect.qq.com/widget/shareqq/index.html?url={{ .Permalink | html }}&amp;title={{ .Title | html }}" -->
+         <!-- target="_blank" rel="noopener"> -->
+        <!-- <i class="fab fa-qq"></i> -->
+      <!-- </a> -->
+    <!-- </li> -->
+    <!-- <li> -->
+      <!-- <a class="qzone" -->
+         <!-- href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url={{ .Permalink | html }}&amp;title={{ .Title | html }}" -->
+         <!-- target="_blank" rel="noopener"> -->
+        <!-- <i class="fab">空</i> -->
+      <!-- </a> -->
+    <!-- </li> -->
+    <!-- <li> -->
+      <!-- <a class="douban" -->
+         <!-- href="http://shuo.douban.com/!service/share?href={{ .Permalink | html }}&amp;name={{ .Title | html }}&starid=0&aid=0&style=11" -->
+         <!-- target="_blank" rel="noopener"> -->
+        <!-- <i class="fab">豆</i> -->
+      <!-- </a> -->
+    <!-- </li> -->
+    <!-- <li> -->
+      <!-- <a class="email" -->
+         <!-- href="mailto:?subject={{ .Title | html }}&amp;body={{ .Permalink | html }}"> -->
+        <!-- <i class="fas fa-envelope"></i> -->
+      <!-- </a> -->
+    <!-- </li> -->
+  <!-- </ul> -->
+<!-- </div> -->
+<!-- {{ end }} -->
+
+
+
+

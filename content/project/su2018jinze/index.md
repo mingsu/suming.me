@@ -33,8 +33,9 @@ url_code = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 url_custom = [
-{name="Contract", url = "project/protected/su2018jinze/contract.pdf"},
-{name="Progress", url = "project/protected/su2018jinze/progressreport_2018.pdf"}
+{name="Contract", url = "project/protected/su2018jinze/contract.pdf"}
+,{name="Progress", url = "project/protected/su2018jinze/progressreport_2018.pdf"}
+,{name="Final", url = "project/protected/su2018jinze/finalreport.pdf"}
 ]
 
 # Featured image

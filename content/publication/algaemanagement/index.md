@@ -1,5 +1,5 @@
 +++
-title = "水源地藻类分析管理系统"
+title = "Cloud analysis system of phytoplankton data in source water"
 date = 2018-07-21T00:00:00
 draft = false
 
@@ -20,7 +20,7 @@ authors = ["Ming Su"]
 publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
-publication = "软件著作权"
+publication = "Copyright"
 
 # Abstract and optional shortened version.
 
@@ -85,19 +85,19 @@ highlight = true
     image = "headers/algaemanagement.png"
 +++
 
-## 软件著作权基本信息
+## Software information
 
-- 版本号：v1.0
-- 登记号：2018SR539959
+- Version: v1.0
+- No.: 2018SR539959
 
-## 主要功能
+## Functions
 
 在云平台中基于用户需求定制藻类分析，获取实时藻类数据，优势藻种类、有害藻 种类、不同藻种的时空分布及趋势分析;定制报告。
 
-## 技术特点
+## Features
 
 基于Linux平台下R语言及MYSQ L数据库构建的云分析计算平台，具有客户端广谱性，适合实时了解当前及近期藻类发展趋势。
 
-## 使用
+## Server
 
-[此处前往](http://159.226.240.69/cctda)。
+[Link to server](http://159.226.240.69/cctda).

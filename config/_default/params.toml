@@ -51,8 +51,9 @@ math = false
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
-highlight_languages = ["r"]  # Add support for highlighting additional languages
+highlight_languages = ["r", "yaml", "tex"]  # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
+
 
 # Enable in-built social sharing buttons?
 sharing = true
@@ -126,7 +127,7 @@ menu_align_right = false
 # Link custom CSS and JS assets
 #   (relative to /static/css and /static/js respectively)
 custom_css = ['custom.css']
-custom_js  =  ["js/fix-toc.js", "js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js", "js/math-code.js", "js/external-link.js", "js/alt-title.js"]
+custom_js  =  ["fix-toc.js", "center-img.js", "right-quote.js", "no-highlight.js", "fix-footnote.js", "math-code.js", "external-link.js", "alt-title.js"]
 
 # Configuration of talk pages.
 [talks]

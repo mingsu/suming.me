@@ -45,6 +45,11 @@ interests = [
 #
 #   Full list: https://jpswalsh.github.io/academicons/
 
+[[social]]
+    icon = "envelope"
+    icon_pack = "fas"
+    link = "mailto:yanan_xu12@163.com"  # For a direct email link, use "mailto:test@example.org".
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]

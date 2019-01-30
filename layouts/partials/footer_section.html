@@ -30,3 +30,9 @@
     {{ end }}
   </p>
 </footer>
+<!-- 加入MathJax, 用于Markdown中输入数学公式 -->
+<!-- 如：`$x^2 + y^2 = z^2$` -->
+{{ if and (not .Params.disable_mathjax) (or (in (string .Content) "\\") (in (string .Content) "$")) }}
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+{{ end }}
+

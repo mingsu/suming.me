@@ -1,12 +1,12 @@
 +++
 # Display name
-name = "Yanan Xu"
+name = "徐亚楠"
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "Master Student"
+role = "硕士研究生"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -38,12 +38,17 @@ interests = [
 #   "mailto:your@email.com" as the link.
 #
 #   Full list: https://fontawesome.com/icons
-#
+#yanan_xu12@163.com
 # Icon pack "ai" includes the following academic icons:
 #
 #   cv, google-scholar, arxiv, orcid, researchgate, mendeley
 #
 #   Full list: https://jpswalsh.github.io/academicons/
+
+[[social]]
+    icon = "envelope"
+    icon_pack = "fas"
+    link = "mailto:yanan_xu12@163.com"  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

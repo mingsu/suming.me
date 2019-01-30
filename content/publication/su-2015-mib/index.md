@@ -49,7 +49,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Planktothrix", "2-methylisoborneol", "Taste and odor", "Drinking water", "Low irradiance specialist cyanobacteria"]
+tags = ["planktothrix", "2-mib", "taste and odor", "drinking water", "low irradiance specialist cyanobacteria"]
 
 # Links (optional).
 url_pdf = "https://www.sciencedirect.com/science/article/pii/S004313541400668X/pdfft?md5=e19819da1d374d6fb0a6752423124a1f&pid=1-s2.0-S004313541400668X-main.pdf"
@@ -73,12 +73,14 @@ math = false
 # Does this page require source code highlighting? (true/false)
 highlight = true
 
+[header]
+    # Caption (optional)
+    image = "header/su2015mib.png"
+    caption = "Graphic Abstract"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
-    # Caption (optional)
-    caption = "Graphic Abstract"
-
     # Focal point (optional)
     # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
     focal_point = ""

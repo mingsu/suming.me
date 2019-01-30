@@ -1,12 +1,12 @@
 <div class="post-nav">
   {{if .PrevInSection}}
   <div class="post-nav-item">
-    <a href="{{.PrevInSection.Permalink}}" rel="prev">&larr; {{.PrevInSection.Title}}</a>
+    &larr; <a href="{{.PrevInSection.Permalink}}" rel="prev">{{.PrevInSection.Title}}</a>
   </div>
   {{end}}
   {{if .NextInSection}}
   <div class="post-nav-item">
-    <a href="{{.NextInSection.Permalink}}" rel="next">{{.NextInSection.Title}} &rarr;</a>
+    <a href="{{.NextInSection.Permalink}}" rel="next">{{.NextInSection.Title}}</a> &rarr;
   </div>
   {{end}}
 </div>

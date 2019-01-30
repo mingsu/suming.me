@@ -55,7 +55,7 @@ url_custom = [{name="Proposal", url = "project/protected/su2015miyunnsf/proposal
 - From: the National Science Foundation of China
 - Founding: ￥0.24 M
 - Host: Ming Su
-- Period: 2015/01 - 2018/12
+- Period: Jan, 2015 - Dec, 2018
 - Grant No.: 5150081984
 
 

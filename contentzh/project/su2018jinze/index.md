@@ -33,8 +33,9 @@ url_code = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 url_custom = [
-{name="合同", url = "project/protected/su2018jinze/contract.pdf"},
-{name="进展", url = "project/protected/su2018jinze/progressreport_2018.pdf"}
+{name="合同", url = "project/protected/su2018jinze/contract.pdf"}
+,{name="进展", url = "project/protected/su2018jinze/progressreport_2018.pdf"}
+,{name="结题", url = "project/protected/su2018jinze/finalreport.pdf"}
 ]
 
 # Featured image
@@ -59,5 +60,4 @@ url_custom = [
 
 ## 项目简介
 
-监测金泽水库中藻类，并基于监测数据，研究金泽水库藻类动态分布规律
-。
+监测金泽水库中藻类，并基于监测数据，研究金泽水库藻类动态分布规律。

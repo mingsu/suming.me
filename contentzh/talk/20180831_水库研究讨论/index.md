@@ -9,7 +9,7 @@ time_start = 2018-08-31T15:00:00
 time_end = 2018-08-31T17:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Ming Su"]
 
 # Abstract and optional shortened version.
 abstract = ""

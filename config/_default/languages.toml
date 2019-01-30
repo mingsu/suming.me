@@ -10,7 +10,7 @@
 [zh]
  languageCode = "zh-Hans"
  contentDir = "contentzh"
- title = "苏命的个人网站"
+ title = "苏命 | Ming Su"
  # [zh.params]
    # description = "苏命的个人网站"
  [[zh.menu.main]]

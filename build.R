@@ -13,16 +13,15 @@ system("git cm 'deploy website'")
 system("git push")
 
 
-system("git push https://github.com/mingsu/suming.me master:master")
-
-library(rscopus)
-
-
-api_key <- "92144b49c378154306281c7517112256"
-api_key <- "d20dfb7fd39967be9ba49641217bcce9"
-options("elsevier_api_key" = api_key)
-
-library(rscopus)
-library(dplyr)
-res = author_df(last_name = "Muschelli", first_name = "John", verbose = FALSE, general = FALSE)
-names(res)
+# push to github
+system("mv .git .git_rcees")
+system("mv .git_github .git")
+system("mv .gitignore .gitignore_rcees")
+system("mv .gitignore_github .gitignore")
+system("git add .")
+system("git cm 'share to github'")
+system("git push")
+system("mv .git .git_github")
+system("mv .git_rcees .git")
+system("mv .gitignore .gitignore_github")
+system("mv .gitignore_rcees .gitignore")

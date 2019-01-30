@@ -84,4 +84,7 @@ highlight = true
 
 A book for phytoplankton Identification.
 
-[link](/post/20190128_phytoplanktonidentification/PhytoID_fullset.pdf)
+
+[Fulltext link.](/post/20190128_phytoplanktonidentification/PhytoID_fullset.pdf)
+
+
