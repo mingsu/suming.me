@@ -1,4 +1,3 @@
-# require(blogdown)
 # preview changes
 options(blogdown.publishDir = './suming.me')
 blogdown::serve_site()
@@ -18,6 +17,7 @@ system("mv .git .git_rcees")
 system("mv .git_github .git")
 system("mv .gitignore .gitignore_rcees")
 system("mv .gitignore_github .gitignore")
+system("mv suming.me docs")
 system("git add .")
 system("git cm 'share to github'")
 system("git push")
@@ -25,3 +25,7 @@ system("mv .git .git_github")
 system("mv .git_rcees .git")
 system("mv .gitignore .gitignore_github")
 system("mv .gitignore_rcees .gitignore")
+
+
+
+

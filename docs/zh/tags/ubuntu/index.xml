@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ubuntu on 苏命 | Ming Su</title>
+    <link>http://suming.me/zh/tags/ubuntu/</link>
+    <description>Recent content in ubuntu on 苏命 | Ming Su</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
+    <lastBuildDate>Mon, 16 Feb 2015 12:30:55 +0000</lastBuildDate>
+    
+	<atom:link href="http://suming.me/zh/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My favorate tools list</title>
+      <link>http://suming.me/zh/post/20150216_favoratetools/</link>
+      <pubDate>Mon, 16 Feb 2015 12:30:55 +0000</pubDate>
+      
+      <guid>http://suming.me/zh/post/20150216_favoratetools/</guid>
+      <description>I prefer to use command line tools (CLI). Here is a list that I am using and enjoying.
+ OS: debian/ubuntu (95%) + windows(5%) windows manager: FVWM reminder: conky+remind+wyrd calendar: conky+remind+web shell: zsh+tmux mail: mutt/getmail/msmtp contactor: abook document (doc): markdown (60%) + MS word (30%, under windows) + wps (10%) presentation: MS powerpoint (70%, under windows) + html5 slides (30%) scientific publish/thesis: latex (texlive) pdf reader: okular note: note editor: vim remote operating: ssh remote desktop: remmina virtual OS: virtualbox database: mysql file manager: ranger internet expolor: firefox + uzbl ftp: lftpd image editor: gimp music player: mocp video player: vlc data analysis: R/matlab/python dictionary: iciba.</description>
+    </item>
+    
+    <item>
+      <title>Setting up a bash command to post on jekyll based blog</title>
+      <link>http://suming.me/zh/post/20141102_jekyll_blog/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://suming.me/zh/post/20141102_jekyll_blog/</guid>
+      <description>It is very time-consuming to write up the HEADLINE of your each post. This article is aiming to show you a bash command based way to set up the HEADLINE in the post.
+#!/bin/bash ## ~/bin/wa hppath=&amp;quot;~/u2/www/homepage&amp;quot; d=`date &amp;#39;+%Y-%m-%d&amp;#39;` t=`date &amp;#39;+%b %d, %Y %H:%M:%S&amp;#39;` filename=${1// /_} head=&amp;quot;---\n&amp;quot; cd ~/u2/www/homepage/_posts/ postpath=&amp;quot;~/u2/www/homepage/_posts&amp;quot; # touch $d&amp;quot;-&amp;quot;$filename&amp;quot;.md&amp;quot;` echo -e &amp;quot;$head&amp;quot; &amp;gt; &amp;quot;$d&amp;quot;-&amp;quot;$filename&amp;quot;.md vim &amp;quot;$d&amp;quot;-&amp;quot;$filename&amp;quot;.md Add execute permission on this file:
+chmod +x ~/bin/wa Usage:</description>
+    </item>
+    
+  </channel>
+</rss>

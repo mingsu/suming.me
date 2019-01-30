@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Liu on Ming Su | 苏命</title>
+    <link>http://suming.me/authors/juan-liu/</link>
+    <description>Recent content in Juan Liu on Ming Su | 苏命</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://suming.me/authors/juan-liu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multiple linear regression model for bromate formation based on the survey data of source waters from geographically different regions across China</title>
+      <link>http://suming.me/publication/yu-2015-multiple/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>http://suming.me/publication/yu-2015-multiple/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

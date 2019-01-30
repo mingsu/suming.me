@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>苏命 | Ming Su</title>
+    <link>http://suming.me/zh/author/tingting-liu/</link>
+    <description>Recent content on 苏命 | Ming Su</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
+    <lastBuildDate>Tue, 29 Jan 2019 13:34:13 +0800</lastBuildDate>
+    
+	<atom:link href="http://suming.me/zh/author/tingting-liu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types on Ming Su | 苏命</title>
+    <link>http://suming.me/publication_types/</link>
+    <description>Recent content in Publication_types on Ming Su | 苏命</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
+    <lastBuildDate>Tue, 29 Jan 2019 15:30:55 +0800</lastBuildDate>
+    
+	<atom:link href="http://suming.me/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>0</title>
+      <link>http://suming.me/publication_types/0/</link>
+      <pubDate>Tue, 29 Jan 2019 15:30:55 +0800</pubDate>
+      
+      <guid>http://suming.me/publication_types/0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>http://suming.me/publication_types/2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>http://suming.me/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>http://suming.me/publication_types/4/</link>
+      <pubDate>Fri, 25 Jan 2019 12:30:55 +0800</pubDate>
+      
+      <guid>http://suming.me/publication_types/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5</title>
+      <link>http://suming.me/publication_types/5/</link>
+      <pubDate>Sun, 27 Jan 2019 12:30:55 +0800</pubDate>
+      
+      <guid>http://suming.me/publication_types/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>8</title>
+      <link>http://suming.me/publication_types/8/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>http://suming.me/publication_types/8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>苏命 | Ming Su on 苏命 | Ming Su</title>
+    <link>http://suming.me/zh/</link>
+    <description>Recent content in 苏命 | Ming Su on 苏命 | Ming Su</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
+    <atom:link href="/zh/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>&#39;su2018jinze&#39;项目结题报告</title>
+      <link>http://suming.me/zh/post/su2018jinze_progress2018/</link>
+      <pubDate>Tue, 29 Jan 2019 22:08:42 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/post/su2018jinze_progress2018/</guid>
+      <description>&lt;p&gt;&amp;lsquo;su2018jinze&amp;rsquo;项目结题报告。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo 网站中的Markdown 语法备忘</title>
+      <link>http://suming.me/zh/post/20190129_markdownexample/</link>
+      <pubDate>Tue, 29 Jan 2019 15:30:55 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/post/20190129_markdownexample/</guid>
+      <description>
+
+&lt;p&gt;The solutions are mainly derived from &lt;a href=&#34;https://github.com/yihui/yihui.name/tree/master/static/js&#34; target=&#34;_blank&#34;&gt;Yihui&amp;rsquo;s JS library&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;By using:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;
+` ` `r
+a &amp;lt;- 1 + 1
+...
+` ` `
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;produces:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;a = 1 + 1
+...
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;mathjax&#34;&gt;MathJax&lt;/h2&gt;
+
+&lt;p&gt;Solution:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Add &lt;a href=&#34;https://raw.githubusercontent.com/yihui/yihui.name/master/static/js/math-code.js&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;math-code.js&lt;/code&gt;&lt;/a&gt;. to &lt;code&gt;static/js/&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Add the following lines to &lt;code&gt;layouts/partials/footer_section.html&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;!-- 加入MathJax, 用于Markdown中输入数学公式 --&amp;gt;
+&amp;lt;!-- 如：`$x^2 + y^2 = z^2$` --&amp;gt;
+{{ if and (not .Params.disable_mathjax) (or (in (string .Content) &amp;quot;\\&amp;quot;) (in (string .Content) &amp;quot;$&amp;quot;)) }}
+&amp;lt;script async src=&amp;quot;//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+{{ end }}
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;By using:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;`$x^2 + y^2 = z^2$`
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;produces:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;$x^2 + y^2 = z^2$&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;footnote&#34;&gt;Footnote&lt;/h2&gt;
+
+&lt;p&gt;Solution: add &lt;a href=&#34;https://raw.githubusercontent.com/yihui/yihui.name/master/static/js/fix-footnote.js&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;fix-footnote.js&lt;/code&gt;&lt;/a&gt;. to &lt;code&gt;static/js/&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;By using:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;bla ...
+^[This is a footnote.]
+
+bla ...
+^[This is another footnote.]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;produces:&lt;/p&gt;
+
+&lt;p&gt;bla &amp;hellip;
+&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:This-is-a-footno&#34;&gt;&lt;a href=&#34;#fn:This-is-a-footno&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;bla &amp;hellip;
+&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:This-is-another&#34;&gt;&lt;a href=&#34;#fn:This-is-another&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:This-is-a-footno&#34;&gt;This is a footnote. &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:This-is-a-footno&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:This-is-another&#34;&gt;This is another footnote. &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:This-is-another&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>浮游植物鉴定图谱</title>
+      <link>http://suming.me/zh/post/20190128_phytoplanktonidentification/</link>
+      <pubDate>Sun, 27 Jan 2019 12:30:55 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/post/20190128_phytoplanktonidentification/</guid>
+      <description>&lt;p&gt;浮游植物鉴定图谱。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://suming.me/post/20190128_phytoplanktonidentification/PhytoID_fullset.pdf&#34;&gt;全文链接&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>名片</title>
+      <link>http://suming.me/zh/bcard/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/bcard/</guid>
+      <description>&lt;iframe src=&#34;http://suming.me/bcard_cn.html&#34; width=&#34;330&#34;, height = &#34;450&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;http://suming.me/bcard.html&#34; width=&#34;330&#34;, height = &#34;450&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>典型大城市水源地水库水环境质量评估</title>
+      <link>http://suming.me/zh/project/su2019casreservoir/</link>
+      <pubDate>Fri, 25 Jan 2019 22:28:44 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/project/su2019casreservoir/</guid>
+      <description>
+
+&lt;h2 id=&#34;项目信息&#34;&gt;项目信息&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;项目类别：中国科学院&lt;/li&gt;
+&lt;li&gt;经费：20 万&lt;/li&gt;
+&lt;li&gt;负责人：苏命&lt;/li&gt;
+&lt;li&gt;执行年限：2019年01月-2021年12月&lt;/li&gt;
+&lt;li&gt;项目编号：KFJ-SW-YW036&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>金泽水库藻类及嗅味防控关键技术研究与应用</title>
+      <link>http://suming.me/zh/project/su2018jinzeodor/</link>
+      <pubDate>Fri, 25 Jan 2019 22:18:44 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/project/su2018jinzeodor/</guid>
+      <description>
+
+&lt;h2 id=&#34;项目信息&#34;&gt;项目信息&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;项目类别：企业横向&lt;/li&gt;
+&lt;li&gt;经费：￥50 万&lt;/li&gt;
+&lt;li&gt;负责人：苏命/于建伟&lt;/li&gt;
+&lt;li&gt;执行年限：2018年06月-2020年05月&lt;/li&gt;
+&lt;li&gt;项目编号：20180531&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>水洞沟水库藻类及水质变化分析研究（续）</title>
+      <link>http://suming.me/zh/project/su2019shuidonggou/</link>
+      <pubDate>Fri, 25 Jan 2019 22:08:44 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/project/su2019shuidonggou/</guid>
+      <description>
+
+&lt;h2 id=&#34;项目信息&#34;&gt;项目信息&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;项目类别：宁夏长城水务有限责任公司&lt;/li&gt;
+&lt;li&gt;经费：￥5万&lt;/li&gt;
+&lt;li&gt;负责人：苏命&lt;/li&gt;
+&lt;li&gt;执行年限：2019年01月-2019年12月&lt;/li&gt;
+&lt;li&gt;项目编号：20190006&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>水洞沟水库藻类及水质变化分析研究</title>
+      <link>http://suming.me/zh/project/su2017shuidonggou/</link>
+      <pubDate>Fri, 25 Jan 2019 22:01:44 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/project/su2017shuidonggou/</guid>
+      <description>
+
+&lt;h2 id=&#34;项目信息&#34;&gt;项目信息&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;项目类别：企业横向&lt;/li&gt;
+&lt;li&gt;经费：5 万&lt;/li&gt;
+&lt;li&gt;负责人：苏命&lt;/li&gt;
+&lt;li&gt;执行年限：2017年06月-2018年05月&lt;/li&gt;
+&lt;li&gt;项目编号：20170232&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#39;su2015miyunnsf&#39;项目结题报告</title>
+      <link>http://suming.me/zh/post/20190125_su2015miyunnsf/</link>
+      <pubDate>Fri, 25 Jan 2019 12:30:55 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/post/20190125_su2015miyunnsf/</guid>
+      <description>
+
+&lt;h1 id=&#34;摘要&#34;&gt;摘要&lt;/h1&gt;
+
+&lt;p&gt;密云水库为北京市最重要的地表水水源地，近年来由于长期干旱与超采，存水量严 重不足;为缓解密云水库水危机，南水北调中线预计于2015年向密云水库输水。然而， 调水在解决了“水量”问题的同时，还需要保证“水质”达标。本项目以评估调水对密 云水库水质影响为研究目标，结合多年来密云水库固有的饮用水嗅味问题，从多方位采 用实验模拟，原位监测、模型计算等方法全面分析中线调水对密云水库水环境的影响， 包含调水引起的水体混合对密云水库水质的直接影响，调水后由于水位上升导致水环境 的变化，以及由于外来藻种引入对密云水库藻类群落结构的冲击。在此基础上，综合以 上各点，采用模型模拟计算调水后水环境各项参数，最后利用生态位理论评估新环境下 浮颤藻的生长潜力以及水库嗅味问题的发展态势，从而为全面评估调水后密云水库供水 水质、制定科学合理的应对方案、探索有效的控制策略提供支撑。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>藻类计数软件实施许可</title>
+      <link>http://suming.me/zh/project/su2017daxing/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://suming.me/zh/project/su2017daxing/</guid>
+      <description>
+
+&lt;h2 id=&#34;项目信息&#34;&gt;项目信息&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;项目类别：北京兴润水务有限公司&lt;/li&gt;
+&lt;li&gt;著作利：￥9.5万&lt;/li&gt;
+&lt;li&gt;主持人：苏命&lt;/li&gt;
+&lt;li&gt;许可期限: 2018年09月 - 2028年08月&lt;/li&gt;
+&lt;li&gt;合同编号：20180673&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Humic acid removal by gas–liquid interface discharge plasma: performance, mechanism and comparison to ozonation</title>
+      <link>http://suming.me/zh/publication/cui-2019-humic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/publication/cui-2019-humic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synergistic effect of musty odorants on septic odor: Verification in Huangpu River source water</title>
+      <link>http://suming.me/zh/publication/guo-2019-synergistic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/publication/guo-2019-synergistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>西安建筑科技大学水库研究交流</title>
+      <link>http://suming.me/zh/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</link>
+      <pubDate>Wed, 21 Nov 2018 09:00:00 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A review of Cell Counting Tool (CCT)</title>
+      <link>http://suming.me/zh/post/20180926_cct_review/</link>
+      <pubDate>Tue, 25 Sep 2018 12:30:55 +0000</pubDate>
+      
+      <guid>http://suming.me/zh/post/20180926_cct_review/</guid>
+      <description>
+
+
+&lt;div id=&#34;counting&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Counting&lt;/h2&gt;
+&lt;p&gt;The CCT is a powerful windows-based software tool developed to record and process algal cell count data while it is being generated manually by a microscope technician.&lt;/p&gt;
+&lt;p&gt;The input fields can be customised for samples from any site. The user can select the types and species composition from a predetermined list, which includes data for a comprehensive range of phytoplankton and includes all algal classes and cyanobacteria.&lt;/p&gt;
+&lt;p&gt;Counting options include the user’s preferences of full field of view, transects, at the chosen magnification. The user is able to easily construct a list of types seen in the sample from a stored list which includes links to web-based photomicroscopy images to aid with identification.&lt;/p&gt;
+&lt;p&gt;In addition, the user can choose to count and record data for a range of units including single cells, filaments (trichomes) or the area for colonial types such as Microcystis. This accommodates the complexity of how to count and quantify colonial species and genera of cyanobacteria in particular.&lt;/p&gt;
+&lt;p&gt;The software library already includes the approximate geometric shapes for all types of cells which can then be used to automatically calculate and record biovolume for each species counted.&lt;/p&gt;
+&lt;p&gt;It is also possible to record and hyperlink photos taken of species and cell types from the user’s individual sample being counted for later checking and also for including in reporting.&lt;/p&gt;
+&lt;p&gt;The software includes the ability to record the map coordinates of the sample site and later to include a map of the sites in a report. The geolocation information is established in the database for each new site (need to include the source of data used for mapping and constructing image maps)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;reporting&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Reporting&lt;/h2&gt;
+&lt;p&gt;The real power of the software is in the automatic generation of results which allows for production of customised reports. This is an impressive and time-saving feature.&lt;/p&gt;
+&lt;p&gt;The full data set is collated resides in a database within C#. This is able to be accessed by reporting routines (in R-script) which allow the user to automatically generate a comprehensive report with just simple commands. The reports are fully professionally formatted and includes graphic and tabular representation of the algal count information for all samples customised for dates and locations for the project.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;comment&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Comment&lt;/h2&gt;
+&lt;p&gt;This program is the most sophisticated recording and reporting software that I have encountered and will be very valuable for algal analysis.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>水源研究梳理</title>
+      <link>http://suming.me/zh/talk/20180831_%E6%B0%B4%E5%BA%93%E7%A0%94%E7%A9%B6%E8%AE%A8%E8%AE%BA/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>http://suming.me/zh/talk/20180831_%E6%B0%B4%E5%BA%93%E7%A0%94%E7%A9%B6%E8%AE%A8%E8%AE%BA/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

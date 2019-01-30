@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Progress on Ming Su | 苏命</title>
+    <link>http://suming.me/tags/progress/</link>
+    <description>Recent content in Progress on Ming Su | 苏命</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
+    <lastBuildDate>Tue, 29 Jan 2019 22:08:42 +0800</lastBuildDate>
+    
+	<atom:link href="http://suming.me/tags/progress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Final report of project &#39;su2018jinze&#39;</title>
+      <link>http://suming.me/post/su2018jinze_progress2018/</link>
+      <pubDate>Tue, 29 Jan 2019 22:08:42 +0800</pubDate>
+      
+      <guid>http://suming.me/post/su2018jinze_progress2018/</guid>
+      <description>Final report of project &amp;lsquo;su2018jinze&amp;rsquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
