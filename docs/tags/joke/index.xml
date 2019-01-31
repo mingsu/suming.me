@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>joke on Ming Su | 苏命</title>
-    <link>/tags/joke/</link>
+    <link>http://suming.me/tags/joke/</link>
     <description>Recent content in joke on Ming Su | 苏命</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Sun, 09 Nov 2014 13:45:44 +0000</lastBuildDate>
     
-	<atom:link href="/tags/joke/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://suming.me/tags/joke/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>土豪与屌丝</title>
-      <link>/post/20141209_tuhao/</link>
+      <link>http://suming.me/post/20141209_tuhao/</link>
       <pubDate>Sun, 09 Nov 2014 13:45:44 +0000</pubDate>
       
-      <guid>/post/20141209_tuhao/</guid>
+      <guid>http://suming.me/post/20141209_tuhao/</guid>
       <description>正常人： 屌丝: 土豪：</description>
     </item>
     

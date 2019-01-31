@@ -2,166 +2,166 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Ming Su | 苏命</title>
-    <link>/publication/</link>
+    <link>http://suming.me/publication/</link>
     <description>Recent content in Publications on Ming Su | 苏命</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://suming.me/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Humic acid removal by gas–liquid interface discharge plasma: performance, mechanism and comparison to ozonation</title>
-      <link>/publication/cui-2019-humic/</link>
+      <link>http://suming.me/publication/cui-2019-humic/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>/publication/cui-2019-humic/</guid>
+      <guid>http://suming.me/publication/cui-2019-humic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synergistic effect of musty odorants on septic odor: Verification in Huangpu River source water</title>
-      <link>/publication/guo-2019-synergistic/</link>
+      <link>http://suming.me/publication/guo-2019-synergistic/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>/publication/guo-2019-synergistic/</guid>
+      <guid>http://suming.me/publication/guo-2019-synergistic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Succession and interaction of surface and subsurface cyanobacterial blooms in oligotrophic/mesotrophic reservoirs: a case study in Miyun Reservoir</title>
-      <link>/publication/su-2019-succession/</link>
+      <link>http://suming.me/publication/su-2019-succession/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0800</pubDate>
       
-      <guid>/publication/su-2019-succession/</guid>
+      <guid>http://suming.me/publication/su-2019-succession/</guid>
       <description> Highlights  High light and nutrient at pre-bloom stage are essential for surface cyanobacteria. Surface cell decline enhanced underwater light thus promoted subsurface cyanobacteria. Subsurface cyanobacteria prefer to grow in shallow oligotrophic/deep eutrophic water.  </description>
     </item>
     
     <item>
       <title>Smart monitoring and management system of source water</title>
-      <link>/publication/smartsourcewater/</link>
+      <link>http://suming.me/publication/smartsourcewater/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>/publication/smartsourcewater/</guid>
+      <guid>http://suming.me/publication/smartsourcewater/</guid>
       <description>Software Information Version: v1.0 No.: 2018SR539952 主要功能 在云平台中整合水源地在线和实验室监测分析数据，通过实时获取监测数据、在线展示数据图表、时空趋势分析以及水质模型预警等功能</description>
     </item>
     
     <item>
       <title>Cloud analysis system of phytoplankton data in source water</title>
-      <link>/publication/algaemanagement/</link>
+      <link>http://suming.me/publication/algaemanagement/</link>
       <pubDate>Sat, 21 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>/publication/algaemanagement/</guid>
+      <guid>http://suming.me/publication/algaemanagement/</guid>
       <description>Software information Version: v1.0 No.: 2018SR539959 Functions 在云平台中基于用户需求定制藻类分析，获取实时藻类数据，优势藻种类、有害藻 种类、不同藻种的时空分布及趋势分析;定制报告。 Features 基于L</description>
     </item>
     
     <item>
       <title>Cell Counting Tool v1.4</title>
-      <link>/publication/cctv1.4/</link>
+      <link>http://suming.me/publication/cctv1.4/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0800</pubDate>
       
-      <guid>/publication/cctv1.4/</guid>
+      <guid>http://suming.me/publication/cctv1.4/</guid>
       <description>Software Information Version: v1.4 No.: 2018SR525480 Introduction 辅助显微镜下细胞计数，藻类数据库查询，计数数据、镜检图片自动归档，数据分析，可视化。 技术特点 结合显微镜计数原理，将传统机械式计</description>
     </item>
     
     <item>
       <title>Reducing production of taste and odor by deep-living cyanobacteria in drinking water reservoirs by regulation of water level</title>
-      <link>/publication/su-2017-reducing/</link>
+      <link>http://suming.me/publication/su-2017-reducing/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
       
-      <guid>/publication/su-2017-reducing/</guid>
+      <guid>http://suming.me/publication/su-2017-reducing/</guid>
       <description> Highlights  Water level lowering triggered the deep living cyanobacteria bloom in Miyun Reservoir. The shallow areas in Miyun Reservoir are the major habitats for Planktothrix sp. The Planktothrix could bloom in mesotrophic water due to its low light requirement.  </description>
     </item>
     
     <item>
       <title>Source-water odor during winter in the Yellow River area of China: Occurrence and diagnosis</title>
-      <link>/publication/li-2016-source/</link>
+      <link>http://suming.me/publication/li-2016-source/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
       
-      <guid>/publication/li-2016-source/</guid>
+      <guid>http://suming.me/publication/li-2016-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Study of odor-producing Planktothrix sp. in Miyun Reservoir, regarding the ecological niche identification, regulation and control strategy</title>
-      <link>/publication/su2015study/</link>
+      <link>http://suming.me/publication/su2015study/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0800</pubDate>
       
-      <guid>/publication/su2015study/</guid>
+      <guid>http://suming.me/publication/su2015study/</guid>
       <description>MIB producing potential of Planktothrix sp. The production of odorant methylisoborneol (MIB) in water bodies by Planktothrix sp. have not been understood very well. Through a four-year investigation in Miyun Reservoir, a huge mesotrophic drinking water reservoir known to have the MIB episodes, we found that the Planktothrix sp. bloomed during September and October causing the high levels of MIB in the reservoir. The concentration of MIB and the biomass of MIB-producing cyanobacteria Planktothrix sp.</description>
     </item>
     
     <item>
       <title>MIB-producing cyanobacteria (Planktothrix sp.) in a drinking water reservoir: Distribution and odor producing potential</title>
-      <link>/publication/su-2015-mib/</link>
+      <link>http://suming.me/publication/su-2015-mib/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
       
-      <guid>/publication/su-2015-mib/</guid>
+      <guid>http://suming.me/publication/su-2015-mib/</guid>
       <description> Highlights  Water level lowering triggered the deep living cyanobacteria bloom in Miyun Reservoir. The shallow areas in Miyun Reservoir are the major habitats for Planktothrix sp. The Planktothrix could bloom in mesotrophic water due to its low light requirement.  </description>
     </item>
     
     <item>
       <title>Multiple linear regression model for bromate formation based on the survey data of source waters from geographically different regions across China</title>
-      <link>/publication/yu-2015-multiple/</link>
+      <link>http://suming.me/publication/yu-2015-multiple/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
       
-      <guid>/publication/yu-2015-multiple/</guid>
+      <guid>http://suming.me/publication/yu-2015-multiple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cancer risk assessment on trihalomethanes and haloacetic acids in drinking water of China using disability-adjusted life years</title>
-      <link>/publication/pan-2014-cancer/</link>
+      <link>http://suming.me/publication/pan-2014-cancer/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0800</pubDate>
       
-      <guid>/publication/pan-2014-cancer/</guid>
+      <guid>http://suming.me/publication/pan-2014-cancer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importance of underwater light field in selecting phytoplankton morphology in a eutrophic reservoir</title>
-      <link>/publication/su-2014-important/</link>
+      <link>http://suming.me/publication/su-2014-important/</link>
       <pubDate>Wed, 06 Nov 2013 00:00:00 +0800</pubDate>
       
-      <guid>/publication/su-2014-important/</guid>
+      <guid>http://suming.me/publication/su-2014-important/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Establishment of quantitative PCR methods for the quantification of geosmin-producing potential and Anabaena sp. in freshwater systems</title>
-      <link>/publication/su-2013-establishment/</link>
+      <link>http://suming.me/publication/su-2013-establishment/</link>
       <pubDate>Sat, 15 Jun 2013 00:00:00 +0800</pubDate>
       
-      <guid>/publication/su-2013-establishment/</guid>
+      <guid>http://suming.me/publication/su-2013-establishment/</guid>
       <description> Highlights  We designed primers targeting for Anabaena rpoC₁ gene and geosmin synthase gene. We constructed two qPCR assays aim for quantifying general Anabaena population and geosmin-produce potential. Both qPCR were verified by simulated culture bloom and field samples, hence are applicable. Compared to traditional methods, the two qPCR assays provide fast, simple and on-site approach.  </description>
     </item>
     
     <item>
       <title>Algal growth dynamics in drinking water reservoir and the driving force</title>
-      <link>/publication/su2013algal/</link>
+      <link>http://suming.me/publication/su2013algal/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0800</pubDate>
       
-      <guid>/publication/su2013algal/</guid>
+      <guid>http://suming.me/publication/su2013algal/</guid>
       <description>Rapid detection method of Anabaena associated with odorous compound based on qPCR in freshwater system: Geosmin has often been associated with off-flavor problems in drinking water with Anabaena sp. as the major producer. Rapid on-site detection of geosmin-producers as well as geosmin is important for a timely management response to potential off-flavor events. In this study, quantitative polymerase chain reaction (qPCR) methods were developed to detect the levels of Anabaena sp.</description>
     </item>
     
     <item>
       <title>Spatial and temporal variations of two cyanobacteria in the mesotrophic Miyun reservoir, China</title>
-      <link>/publication/su-2014-spatial/</link>
+      <link>http://suming.me/publication/su-2014-spatial/</link>
       <pubDate>Fri, 01 Feb 2013 00:00:00 +0800</pubDate>
       
-      <guid>/publication/su-2014-spatial/</guid>
+      <guid>http://suming.me/publication/su-2014-spatial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A fishy odor episode in a north China reservoir: Occurrence, origin, and possible odor causing compounds</title>
-      <link>/publication/zhao-2013-fishy/</link>
+      <link>http://suming.me/publication/zhao-2013-fishy/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
       
-      <guid>/publication/zhao-2013-fishy/</guid>
+      <guid>http://suming.me/publication/zhao-2013-fishy/</guid>
       <description></description>
     </item>
     

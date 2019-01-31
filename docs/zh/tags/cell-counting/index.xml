@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cell counting on 苏命 | Ming Su</title>
-    <link>/zh/tags/cell-counting/</link>
+    <link>http://suming.me/zh/tags/cell-counting/</link>
     <description>Recent content in cell counting on 苏命 | Ming Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Tue, 25 Sep 2018 12:30:55 +0000</lastBuildDate>
     
-	<atom:link href="/zh/tags/cell-counting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://suming.me/zh/tags/cell-counting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A review of Cell Counting Tool (CCT)</title>
-      <link>/zh/post/20180926_cct_review/</link>
+      <link>http://suming.me/zh/post/20180926_cct_review/</link>
       <pubDate>Tue, 25 Sep 2018 12:30:55 +0000</pubDate>
       
-      <guid>/zh/post/20180926_cct_review/</guid>
+      <guid>http://suming.me/zh/post/20180926_cct_review/</guid>
       <description>Counting The CCT is a powerful windows-based software tool developed to record and process algal cell count data while it is being generated manually by a microscope technician.
 The input fields can be customised for samples from any site. The user can select the types and species composition from a predetermined list, which includes data for a comprehensive range of phytoplankton and includes all algal classes and cyanobacteria.
 Counting options include the user’s preferences of full field of view, transects, at the chosen magnification.</description>

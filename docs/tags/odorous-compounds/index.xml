@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Odorous Compounds on Ming Su | 苏命</title>
-    <link>/tags/odorous-compounds/</link>
+    <link>http://suming.me/tags/odorous-compounds/</link>
     <description>Recent content in Odorous Compounds on Ming Su | 苏命</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Sat, 01 Jun 2013 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/tags/odorous-compounds/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://suming.me/tags/odorous-compounds/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Algal growth dynamics in drinking water reservoir and the driving force</title>
-      <link>/publication/su2013algal/</link>
+      <link>http://suming.me/publication/su2013algal/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0800</pubDate>
       
-      <guid>/publication/su2013algal/</guid>
+      <guid>http://suming.me/publication/su2013algal/</guid>
       <description>Rapid detection method of Anabaena associated with odorous compound based on qPCR in freshwater system: Geosmin has often been associated with off-flavor problems in drinking water with Anabaena sp. as the major producer. Rapid on-site detection of geosmin-producers as well as geosmin is important for a timely management response to potential off-flavor events. In this study, quantitative polymerase chain reaction (qPCR) methods were developed to detect the levels of Anabaena sp.</description>
     </item>
     

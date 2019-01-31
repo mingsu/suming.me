@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Water level on Ming Su | 苏命</title>
-    <link>/tags/water-level/</link>
+    <link>http://suming.me/tags/water-level/</link>
     <description>Recent content in Water level on Ming Su | 苏命</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Sun, 22 Jul 2018 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/tags/water-level/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://suming.me/tags/water-level/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Report of odor problem of source water reservoir in East Tai Lake in June of 2018</title>
-      <link>/post/wujiang180607/</link>
+      <link>http://suming.me/post/wujiang180607/</link>
       <pubDate>Sun, 22 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>/post/wujiang180607/</guid>
+      <guid>http://suming.me/post/wujiang180607/</guid>
       <description></description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>智慧水源 on 苏命 | Ming Su</title>
-    <link>/zh/tags/%E6%99%BA%E6%85%A7%E6%B0%B4%E6%BA%90/</link>
+    <link>http://suming.me/zh/tags/%E6%99%BA%E6%85%A7%E6%B0%B4%E6%BA%90/</link>
     <description>Recent content in 智慧水源 on 苏命 | Ming Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Sun, 29 Jul 2018 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/zh/tags/%E6%99%BA%E6%85%A7%E6%B0%B4%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://suming.me/zh/tags/%E6%99%BA%E6%85%A7%E6%B0%B4%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>智慧水源水质监测与预警管理系统v1.0</title>
-      <link>/zh/publication/smartsourcewater/</link>
+      <link>http://suming.me/zh/publication/smartsourcewater/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>/zh/publication/smartsourcewater/</guid>
+      <guid>http://suming.me/zh/publication/smartsourcewater/</guid>
       <description>软件著作权基本信息 版本号：v1.0 登记号：2018SR539952 主要功能 在云平台中整合水源地在线和实验室监测分析数据，通过实时获取监测数据</description>
     </item>
     

@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on 苏命 | Ming Su</title>
-    <link>/zh/talk/</link>
+    <link>http://suming.me/zh/talk/</link>
     <description>Recent content in Talks on 苏命 | Ming Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Wed, 21 Nov 2018 09:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/zh/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://suming.me/zh/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>西安建筑科技大学水库研究交流</title>
-      <link>/zh/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</link>
+      <link>http://suming.me/zh/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</link>
       <pubDate>Wed, 21 Nov 2018 09:00:00 +0800</pubDate>
       
-      <guid>/zh/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</guid>
+      <guid>http://suming.me/zh/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</guid>
       <description></description>
     </item>
     
     <item>
       <title>水源研究梳理</title>
-      <link>/zh/talk/20180831_%E6%B0%B4%E5%BA%93%E7%A0%94%E7%A9%B6%E8%AE%A8%E8%AE%BA/</link>
+      <link>http://suming.me/zh/talk/20180831_%E6%B0%B4%E5%BA%93%E7%A0%94%E7%A9%B6%E8%AE%A8%E8%AE%BA/</link>
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0800</pubDate>
       
-      <guid>/zh/talk/20180831_%E6%B0%B4%E5%BA%93%E7%A0%94%E7%A9%B6%E8%AE%A8%E8%AE%BA/</guid>
+      <guid>http://suming.me/zh/talk/20180831_%E6%B0%B4%E5%BA%93%E7%A0%94%E7%A9%B6%E8%AE%A8%E8%AE%BA/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster@ISME17</title>
-      <link>/zh/talk/20180813_isme17/</link>
+      <link>http://suming.me/zh/talk/20180813_isme17/</link>
       <pubDate>Mon, 13 Aug 2018 15:00:00 +0800</pubDate>
       
-      <guid>/zh/talk/20180813_isme17/</guid>
+      <guid>http://suming.me/zh/talk/20180813_isme17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>十三水专项汇报</title>
-      <link>/zh/talk/20180721_su1352017/</link>
+      <link>http://suming.me/zh/talk/20180721_su1352017/</link>
       <pubDate>Sun, 22 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>/zh/talk/20180721_su1352017/</guid>
+      <guid>http://suming.me/zh/talk/20180721_su1352017/</guid>
       <description></description>
     </item>
     

@@ -5,6 +5,7 @@ blogdown::serve_site()
 
 # 写入本次提交的内容
 cmdesc <- "增加了page header的一根横线，并居中部分h1"
+cmdesc <- "publication中的Ming Su 粗体"
 # build site and deploy to server
 options(blogdown.publishDir = './suming.me')
 blogdown::build_site()
@@ -32,5 +33,6 @@ system("mv .gitignore_rcees .gitignore")
 system("mv docs suming.me")
 
 
-
+# 将publication中的Ming Su 变成粗体
+system("sed -i '' 's/\"Ming Su\"/\"**Ming Su**\"/g' content*/publication/*/index.md")
 

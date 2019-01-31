@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CCT on 苏命 | Ming Su</title>
-    <link>/zh/tags/cct/</link>
+    <link>http://suming.me/zh/tags/cct/</link>
     <description>Recent content in CCT on 苏命 | Ming Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/zh/tags/cct/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://suming.me/zh/tags/cct/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>藻类计数软件实施许可</title>
-      <link>/zh/project/su2017daxing/</link>
+      <link>http://suming.me/zh/project/su2017daxing/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/zh/project/su2017daxing/</guid>
+      <guid>http://suming.me/zh/project/su2017daxing/</guid>
       <description>项目信息 项目类别：北京兴润水务有限公司 著作利：￥9.5万 主持人：苏命 许可期限: 2018年09月 - 2028年08月 合同编号：20180673</description>
     </item>
     
     <item>
       <title>A review of Cell Counting Tool (CCT)</title>
-      <link>/zh/post/20180926_cct_review/</link>
+      <link>http://suming.me/zh/post/20180926_cct_review/</link>
       <pubDate>Tue, 25 Sep 2018 12:30:55 +0000</pubDate>
       
-      <guid>/zh/post/20180926_cct_review/</guid>
+      <guid>http://suming.me/zh/post/20180926_cct_review/</guid>
       <description>Counting The CCT is a powerful windows-based software tool developed to record and process algal cell count data while it is being generated manually by a microscope technician.
 The input fields can be customised for samples from any site. The user can select the types and species composition from a predetermined list, which includes data for a comprehensive range of phytoplankton and includes all algal classes and cyanobacteria.
 Counting options include the user’s preferences of full field of view, transects, at the chosen magnification.</description>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ecological niche on Ming Su | 苏命</title>
-    <link>/tags/ecological-niche/</link>
+    <link>http://suming.me/tags/ecological-niche/</link>
     <description>Recent content in Ecological niche on Ming Su | 苏命</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/tags/ecological-niche/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://suming.me/tags/ecological-niche/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Succession and interaction of surface and subsurface cyanobacterial blooms in oligotrophic/mesotrophic reservoirs: a case study in Miyun Reservoir</title>
-      <link>/publication/su-2019-succession/</link>
+      <link>http://suming.me/publication/su-2019-succession/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0800</pubDate>
       
-      <guid>/publication/su-2019-succession/</guid>
+      <guid>http://suming.me/publication/su-2019-succession/</guid>
       <description> Highlights  High light and nutrient at pre-bloom stage are essential for surface cyanobacteria. Surface cell decline enhanced underwater light thus promoted subsurface cyanobacteria. Subsurface cyanobacteria prefer to grow in shallow oligotrophic/deep eutrophic water.  </description>
     </item>
     

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>链接 on 苏命 | Ming Su</title>
-    <link>/zh/links/</link>
+    <link>http://suming.me/zh/links/</link>
     <description>Recent content in 链接 on 苏命 | Ming Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/zh/links/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://suming.me/zh/links/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

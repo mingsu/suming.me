@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>苏命 | Ming Su on 苏命 | Ming Su</title>
-    <link>/zh/</link>
+    <link>http://suming.me/zh/</link>
     <description>Recent content in 苏命 | Ming Su on 苏命 | Ming Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
@@ -12,20 +12,20 @@
     
     <item>
       <title>&#39;su2018jinze&#39;项目结题报告</title>
-      <link>/zh/post/su2018jinze_progress2018/</link>
+      <link>http://suming.me/zh/post/su2018jinze_progress2018/</link>
       <pubDate>Tue, 29 Jan 2019 22:08:42 +0800</pubDate>
       
-      <guid>/zh/post/su2018jinze_progress2018/</guid>
+      <guid>http://suming.me/zh/post/su2018jinze_progress2018/</guid>
       <description>&lt;p&gt;&amp;lsquo;su2018jinze&amp;rsquo;项目结题报告。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hugo 网站中的Markdown 语法备忘</title>
-      <link>/zh/post/20190129_markdownexample/</link>
+      <link>http://suming.me/zh/post/20190129_markdownexample/</link>
       <pubDate>Tue, 29 Jan 2019 15:30:55 +0800</pubDate>
       
-      <guid>/zh/post/20190129_markdownexample/</guid>
+      <guid>http://suming.me/zh/post/20190129_markdownexample/</guid>
       <description>
 
 &lt;p&gt;The solutions are mainly derived from &lt;a href=&#34;https://github.com/yihui/yihui.name/tree/master/static/js&#34; target=&#34;_blank&#34;&gt;Yihui&amp;rsquo;s JS library&lt;/a&gt;.&lt;/p&gt;
@@ -108,33 +108,33 @@ bla ...
     
     <item>
       <title>浮游植物鉴定图谱</title>
-      <link>/zh/post/20190128_phytoplanktonidentification/</link>
+      <link>http://suming.me/zh/post/20190128_phytoplanktonidentification/</link>
       <pubDate>Sun, 27 Jan 2019 12:30:55 +0800</pubDate>
       
-      <guid>/zh/post/20190128_phytoplanktonidentification/</guid>
+      <guid>http://suming.me/zh/post/20190128_phytoplanktonidentification/</guid>
       <description>&lt;p&gt;浮游植物鉴定图谱。&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;/post/20190128_phytoplanktonidentification/PhytoID_fullset.pdf&#34;&gt;全文链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://suming.me/post/20190128_phytoplanktonidentification/PhytoID_fullset.pdf&#34;&gt;全文链接&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>名片</title>
-      <link>/zh/bcard/</link>
+      <link>http://suming.me/zh/bcard/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>/zh/bcard/</guid>
-      <description>&lt;iframe src=&#34;/bcard_cn.html&#34; width=&#34;330&#34;, height = &#34;450&#34;&gt;&lt;/iframe&gt;
-&lt;iframe src=&#34;/bcard.html&#34; width=&#34;330&#34;, height = &#34;450&#34;&gt;&lt;/iframe&gt;
+      <guid>http://suming.me/zh/bcard/</guid>
+      <description>&lt;iframe src=&#34;http://suming.me/bcard_cn.html&#34; width=&#34;330&#34;, height = &#34;450&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;http://suming.me/bcard.html&#34; width=&#34;330&#34;, height = &#34;450&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>典型大城市水源地水库水环境质量评估</title>
-      <link>/zh/project/su2019casreservoir/</link>
+      <link>http://suming.me/zh/project/su2019casreservoir/</link>
       <pubDate>Fri, 25 Jan 2019 22:28:44 +0800</pubDate>
       
-      <guid>/zh/project/su2019casreservoir/</guid>
+      <guid>http://suming.me/zh/project/su2019casreservoir/</guid>
       <description>
 
 &lt;h2 id=&#34;项目信息&#34;&gt;项目信息&lt;/h2&gt;
@@ -151,10 +151,10 @@ bla ...
     
     <item>
       <title>金泽水库藻类及嗅味防控关键技术研究与应用</title>
-      <link>/zh/project/su2018jinzeodor/</link>
+      <link>http://suming.me/zh/project/su2018jinzeodor/</link>
       <pubDate>Fri, 25 Jan 2019 22:18:44 +0800</pubDate>
       
-      <guid>/zh/project/su2018jinzeodor/</guid>
+      <guid>http://suming.me/zh/project/su2018jinzeodor/</guid>
       <description>
 
 &lt;h2 id=&#34;项目信息&#34;&gt;项目信息&lt;/h2&gt;
@@ -171,10 +171,10 @@ bla ...
     
     <item>
       <title>水洞沟水库藻类及水质变化分析研究（续）</title>
-      <link>/zh/project/su2019shuidonggou/</link>
+      <link>http://suming.me/zh/project/su2019shuidonggou/</link>
       <pubDate>Fri, 25 Jan 2019 22:08:44 +0800</pubDate>
       
-      <guid>/zh/project/su2019shuidonggou/</guid>
+      <guid>http://suming.me/zh/project/su2019shuidonggou/</guid>
       <description>
 
 &lt;h2 id=&#34;项目信息&#34;&gt;项目信息&lt;/h2&gt;
@@ -191,10 +191,10 @@ bla ...
     
     <item>
       <title>水洞沟水库藻类及水质变化分析研究</title>
-      <link>/zh/project/su2017shuidonggou/</link>
+      <link>http://suming.me/zh/project/su2017shuidonggou/</link>
       <pubDate>Fri, 25 Jan 2019 22:01:44 +0800</pubDate>
       
-      <guid>/zh/project/su2017shuidonggou/</guid>
+      <guid>http://suming.me/zh/project/su2017shuidonggou/</guid>
       <description>
 
 &lt;h2 id=&#34;项目信息&#34;&gt;项目信息&lt;/h2&gt;
@@ -211,10 +211,10 @@ bla ...
     
     <item>
       <title>&#39;su2015miyunnsf&#39;项目结题报告</title>
-      <link>/zh/post/20190125_su2015miyunnsf/</link>
+      <link>http://suming.me/zh/post/20190125_su2015miyunnsf/</link>
       <pubDate>Fri, 25 Jan 2019 12:30:55 +0800</pubDate>
       
-      <guid>/zh/post/20190125_su2015miyunnsf/</guid>
+      <guid>http://suming.me/zh/post/20190125_su2015miyunnsf/</guid>
       <description>
 
 &lt;h1 id=&#34;摘要&#34;&gt;摘要&lt;/h1&gt;
@@ -225,10 +225,10 @@ bla ...
     
     <item>
       <title>藻类计数软件实施许可</title>
-      <link>/zh/project/su2017daxing/</link>
+      <link>http://suming.me/zh/project/su2017daxing/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/zh/project/su2017daxing/</guid>
+      <guid>http://suming.me/zh/project/su2017daxing/</guid>
       <description>
 
 &lt;h2 id=&#34;项目信息&#34;&gt;项目信息&lt;/h2&gt;
@@ -245,37 +245,37 @@ bla ...
     
     <item>
       <title>Humic acid removal by gas–liquid interface discharge plasma: performance, mechanism and comparison to ozonation</title>
-      <link>/zh/publication/cui-2019-humic/</link>
+      <link>http://suming.me/zh/publication/cui-2019-humic/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>/zh/publication/cui-2019-humic/</guid>
+      <guid>http://suming.me/zh/publication/cui-2019-humic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synergistic effect of musty odorants on septic odor: Verification in Huangpu River source water</title>
-      <link>/zh/publication/guo-2019-synergistic/</link>
+      <link>http://suming.me/zh/publication/guo-2019-synergistic/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>/zh/publication/guo-2019-synergistic/</guid>
+      <guid>http://suming.me/zh/publication/guo-2019-synergistic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>西安建筑科技大学水库研究交流</title>
-      <link>/zh/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</link>
+      <link>http://suming.me/zh/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</link>
       <pubDate>Wed, 21 Nov 2018 09:00:00 +0800</pubDate>
       
-      <guid>/zh/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</guid>
+      <guid>http://suming.me/zh/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A review of Cell Counting Tool (CCT)</title>
-      <link>/zh/post/20180926_cct_review/</link>
+      <link>http://suming.me/zh/post/20180926_cct_review/</link>
       <pubDate>Tue, 25 Sep 2018 12:30:55 +0000</pubDate>
       
-      <guid>/zh/post/20180926_cct_review/</guid>
+      <guid>http://suming.me/zh/post/20180926_cct_review/</guid>
       <description>
 
 
@@ -303,10 +303,10 @@ bla ...
     
     <item>
       <title>水源研究梳理</title>
-      <link>/zh/talk/20180831_%E6%B0%B4%E5%BA%93%E7%A0%94%E7%A9%B6%E8%AE%A8%E8%AE%BA/</link>
+      <link>http://suming.me/zh/talk/20180831_%E6%B0%B4%E5%BA%93%E7%A0%94%E7%A9%B6%E8%AE%A8%E8%AE%BA/</link>
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0800</pubDate>
       
-      <guid>/zh/talk/20180831_%E6%B0%B4%E5%BA%93%E7%A0%94%E7%A9%B6%E8%AE%A8%E8%AE%BA/</guid>
+      <guid>http://suming.me/zh/talk/20180831_%E6%B0%B4%E5%BA%93%E7%A0%94%E7%A9%B6%E8%AE%A8%E8%AE%BA/</guid>
       <description></description>
     </item>
     

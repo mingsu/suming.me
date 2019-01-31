@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yiping Zhu on Ming Su | 苏命</title>
-    <link>/authors/yiping-zhu/</link>
+    <link>http://suming.me/authors/yiping-zhu/</link>
     <description>Recent content in Yiping Zhu on Ming Su | 苏命</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Wed, 25 Jul 2018 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/authors/yiping-zhu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://suming.me/authors/yiping-zhu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Odor problem of Qingcaosha Reservoir</title>
-      <link>/post/qcsodor2018/</link>
+      <link>http://suming.me/post/qcsodor2018/</link>
       <pubDate>Wed, 25 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>/post/qcsodor2018/</guid>
+      <guid>http://suming.me/post/qcsodor2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Report of Qingcaosha Reservoir regarding the investigation on May 23, 2018</title>
-      <link>/post/qcs180523/</link>
+      <link>http://suming.me/post/qcs180523/</link>
       <pubDate>Sun, 22 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>/post/qcs180523/</guid>
+      <guid>http://suming.me/post/qcs180523/</guid>
       <description></description>
     </item>
     

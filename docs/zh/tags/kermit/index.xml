@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kermit on 苏命 | Ming Su</title>
-    <link>/zh/tags/kermit/</link>
+    <link>http://suming.me/zh/tags/kermit/</link>
     <description>Recent content in kermit on 苏命 | Ming Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Tue, 09 Dec 2014 18:28:54 +0000</lastBuildDate>
     
-	<atom:link href="/zh/tags/kermit/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://suming.me/zh/tags/kermit/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Using kermit for downloading data from YSI-terminal 650MDS under linux</title>
-      <link>/zh/post/20141209_ysi_skill/</link>
+      <link>http://suming.me/zh/post/20141209_ysi_skill/</link>
       <pubDate>Tue, 09 Dec 2014 18:28:54 +0000</pubDate>
       
-      <guid>/zh/post/20141209_ysi_skill/</guid>
+      <guid>http://suming.me/zh/post/20141209_ysi_skill/</guid>
       <description>Aim The offical ECO-Watch software only support on Windows systems.
 By using kermit, we can simply download data in YSI-terminal 650DMS through serial port connection.
  Installation  apt-get install ckermit or

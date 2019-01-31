@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NSFC on 苏命 | Ming Su</title>
-    <link>/zh/tags/nsfc/</link>
+    <link>http://suming.me/zh/tags/nsfc/</link>
     <description>Recent content in NSFC on 苏命 | Ming Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Fri, 25 Jan 2019 12:30:55 +0800</lastBuildDate>
     
-	<atom:link href="/zh/tags/nsfc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://suming.me/zh/tags/nsfc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>&#39;su2015miyunnsf&#39;项目结题报告</title>
-      <link>/zh/post/20190125_su2015miyunnsf/</link>
+      <link>http://suming.me/zh/post/20190125_su2015miyunnsf/</link>
       <pubDate>Fri, 25 Jan 2019 12:30:55 +0800</pubDate>
       
-      <guid>/zh/post/20190125_su2015miyunnsf/</guid>
+      <guid>http://suming.me/zh/post/20190125_su2015miyunnsf/</guid>
       <description>摘要 密云水库为北京市最重要的地表水水源地，近年来由于长期干旱与超采，存水量严 重不足;为缓解密云水库水危机，南水北调中线预计于2015年向密云</description>
     </item>
     
