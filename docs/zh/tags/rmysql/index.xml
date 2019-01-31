@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rmysql on 苏命 | Ming Su</title>
-    <link>http://suming.me/zh/tags/rmysql/</link>
+    <link>/zh/tags/rmysql/</link>
     <description>Recent content in rmysql on 苏命 | Ming Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Sun, 21 Dec 2014 19:52:39 +0000</lastBuildDate>
     
-	<atom:link href="http://suming.me/zh/tags/rmysql/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/zh/tags/rmysql/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Setup MySQL connection using R in GNU linux</title>
-      <link>http://suming.me/zh/post/20141221_mysql_skill/</link>
+      <link>/zh/post/20141221_mysql_skill/</link>
       <pubDate>Sun, 21 Dec 2014 19:52:39 +0000</pubDate>
       
-      <guid>http://suming.me/zh/post/20141221_mysql_skill/</guid>
+      <guid>/zh/post/20141221_mysql_skill/</guid>
       <description> Aim To connect mysql database using R is very important if you want to do some data analysis, I have extreamly bad experience on setting up it in GNU/linux, as I know, it is not easy to setup in windows as well.
  Install Install libmysqlclient-dev sudo apt-get install libmysqlclient-dev  download and install RMySQL wget http://cran.r-project.org/src/contrib/RMySQL_0.9-3.tar.gz R CMD INSTALL --configure-args=&amp;#39;--with-mysql-dir=/usr/lib&amp;#39; RMySQL_0.9-3.tar.gz    </description>
     </item>

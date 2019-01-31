@@ -3,11 +3,13 @@ options(blogdown.publishDir = './suming.me')
 blogdown::serve_site()
 # system("open http://127.0.0.1:4321")
 
+# 写入本次提交的内容
+cmdesc <- "增加了page header的一根横线，并居中部分h1"
 # build site and deploy to server
 options(blogdown.publishDir = './suming.me')
 blogdown::build_site()
 system("git add suming.me")
-system("git cm 'deploy website'")
+system(paste("git cm '", cmdesc, "'", sep = ""))
 # system("git reset")
 system("git push")
 
@@ -19,13 +21,13 @@ system("mv .gitignore .gitignore_rcees")
 system("mv .gitignore_github .gitignore")
 system("mv suming.me docs")
 system("git add .")
-system("git cm 'share to github'")
-system("git pull")
-system("git merge")
+system(paste("git cm '", cmdesc, "'", sep = ""))
+# system("git pull")
+# system("git merge")
 system("git push")
 system("mv .git .git_github")
 system("mv .git_rcees .git")
-fystem("mv .gitignore .gitignore_github")
+system("mv .gitignore .gitignore_github")
 system("mv .gitignore_rcees .gitignore")
 system("mv docs suming.me")
 

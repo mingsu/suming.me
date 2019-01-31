@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>软件 on 苏命 | Ming Su</title>
-    <link>http://suming.me/zh/tags/%E8%BD%AF%E4%BB%B6/</link>
+    <link>/zh/tags/%E8%BD%AF%E4%BB%B6/</link>
     <description>Recent content in 软件 on 苏命 | Ming Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="http://suming.me/zh/tags/%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/zh/tags/%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>藻类计数系统v1.4</title>
-      <link>http://suming.me/zh/publication/cctv1.4/</link>
+      <link>/zh/publication/cctv1.4/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/cctv1.4/</guid>
+      <guid>/zh/publication/cctv1.4/</guid>
       <description>软件著作权基本信息 版本号：v1.4 登记号：2018SR525480 主要功能 辅助显微镜下细胞计数，藻类数据库查询，计数数据、镜检图片自动归档，</description>
     </item>
     

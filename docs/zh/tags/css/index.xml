@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>css on 苏命 | Ming Su</title>
-    <link>http://suming.me/zh/tags/css/</link>
+    <link>/zh/tags/css/</link>
     <description>Recent content in css on 苏命 | Ming Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Sat, 21 Jul 2018 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="http://suming.me/zh/tags/css/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/zh/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>水源地藻类分析管理系统</title>
-      <link>http://suming.me/zh/publication/algaemanagement/</link>
+      <link>/zh/publication/algaemanagement/</link>
       <pubDate>Sat, 21 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/algaemanagement/</guid>
+      <guid>/zh/publication/algaemanagement/</guid>
       <description>软件著作权基本信息 版本号：v1.0 登记号：2018SR539959 主要功能 在云平台中基于用户需求定制藻类分析，获取实时藻类数据，优势藻种类、</description>
     </item>
     

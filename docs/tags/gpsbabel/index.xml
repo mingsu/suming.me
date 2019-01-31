@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gpsbabel on Ming Su | 苏命</title>
-    <link>http://suming.me/tags/gpsbabel/</link>
+    <link>/tags/gpsbabel/</link>
     <description>Recent content in gpsbabel on Ming Su | 苏命</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Tue, 09 Dec 2014 17:29:10 +0000</lastBuildDate>
     
-	<atom:link href="http://suming.me/tags/gpsbabel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/gpsbabel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Download or upload waypoints or tracks from gps under GNU linux by gpsbabel</title>
-      <link>http://suming.me/post/20141209_gps_skill/</link>
+      <link>/post/20141209_gps_skill/</link>
       <pubDate>Tue, 09 Dec 2014 17:29:10 +0000</pubDate>
       
-      <guid>http://suming.me/post/20141209_gps_skill/</guid>
+      <guid>/post/20141209_gps_skill/</guid>
       <description>Aim I have got a garmin etrex gps which is very old but working pretty well; its major work is for sampling sites navigation in lakes/reservoirs.
 By using GPSbabel, I can easily download/upload waypoints/tracks from gps devices under GNU linux.
  communication through rs232 protocal My workstation doesn’t have a serial port, so I use a usb2serial cable for doing this. In my case, I could find my serial device here:</description>

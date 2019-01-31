@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ming Su | 苏命 on Ming Su | 苏命</title>
-    <link>http://suming.me/</link>
+    <link>/</link>
     <description>Recent content in Ming Su | 苏命 on Ming Su | 苏命</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,20 +12,20 @@
     
     <item>
       <title>Final report of project &#39;su2018jinze&#39;</title>
-      <link>http://suming.me/post/su2018jinze_progress2018/</link>
+      <link>/post/su2018jinze_progress2018/</link>
       <pubDate>Tue, 29 Jan 2019 22:08:42 +0800</pubDate>
       
-      <guid>http://suming.me/post/su2018jinze_progress2018/</guid>
+      <guid>/post/su2018jinze_progress2018/</guid>
       <description>&lt;p&gt;Final report of project &amp;lsquo;su2018jinze&amp;rsquo;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Markdown snippet for Hugo post</title>
-      <link>http://suming.me/post/20190129_markdownexample/</link>
+      <link>/post/20190129_markdownexample/</link>
       <pubDate>Tue, 29 Jan 2019 15:30:55 +0800</pubDate>
       
-      <guid>http://suming.me/post/20190129_markdownexample/</guid>
+      <guid>/post/20190129_markdownexample/</guid>
       <description>
 
 &lt;p&gt;The solutions are mainly derived from &lt;a href=&#34;https://github.com/yihui/yihui.name/tree/master/static/js&#34; target=&#34;_blank&#34;&gt;Yihui&amp;rsquo;s JS library&lt;/a&gt;.&lt;/p&gt;
@@ -108,33 +108,33 @@ bla ...
     
     <item>
       <title>A book for phytoplankton identification</title>
-      <link>http://suming.me/post/20190128_phytoplanktonidentification/</link>
+      <link>/post/20190128_phytoplanktonidentification/</link>
       <pubDate>Sun, 27 Jan 2019 12:30:55 +0800</pubDate>
       
-      <guid>http://suming.me/post/20190128_phytoplanktonidentification/</guid>
+      <guid>/post/20190128_phytoplanktonidentification/</guid>
       <description>&lt;p&gt;A book for phytoplankton Identification.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://suming.me/post/20190128_phytoplanktonidentification/PhytoID_fullset.pdf&#34;&gt;Fulltext link.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/post/20190128_phytoplanktonidentification/PhytoID_fullset.pdf&#34;&gt;Fulltext link.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cards</title>
-      <link>http://suming.me/bcard/</link>
+      <link>/bcard/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/bcard/</guid>
-      <description>&lt;iframe src=&#34;http://suming.me/bcard.html&#34; width=&#34;330&#34;, height = &#34;450&#34;&gt;&lt;/iframe&gt;
-&lt;iframe src=&#34;http://suming.me/bcard_cn.html&#34; width=&#34;330&#34;, height = &#34;450&#34;&gt;&lt;/iframe&gt;
+      <guid>/bcard/</guid>
+      <description>&lt;iframe src=&#34;/bcard.html&#34; width=&#34;330&#34;, height = &#34;450&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;/bcard_cn.html&#34; width=&#34;330&#34;, height = &#34;450&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Evaluation of water quality of source water reservoirs in typical cities</title>
-      <link>http://suming.me/project/su2019casreservoir/</link>
+      <link>/project/su2019casreservoir/</link>
       <pubDate>Fri, 25 Jan 2019 22:28:44 +0800</pubDate>
       
-      <guid>http://suming.me/project/su2019casreservoir/</guid>
+      <guid>/project/su2019casreservoir/</guid>
       <description>
 
 &lt;h2 id=&#34;project-information&#34;&gt;Project Information&lt;/h2&gt;
@@ -151,10 +151,10 @@ bla ...
     
     <item>
       <title>Control strategies of algal bloom and odor problem in Jinze Reservoir</title>
-      <link>http://suming.me/project/su2018jinzeodor/</link>
+      <link>/project/su2018jinzeodor/</link>
       <pubDate>Fri, 25 Jan 2019 22:18:44 +0800</pubDate>
       
-      <guid>http://suming.me/project/su2018jinzeodor/</guid>
+      <guid>/project/su2018jinzeodor/</guid>
       <description>
 
 &lt;h2 id=&#34;project-information&#34;&gt;Project Information&lt;/h2&gt;
@@ -171,10 +171,10 @@ bla ...
     
     <item>
       <title>Analysis of algae and water quality dynamics in Shuidonggou Reservoir (continued)</title>
-      <link>http://suming.me/project/su2019shuidonggou/</link>
+      <link>/project/su2019shuidonggou/</link>
       <pubDate>Fri, 25 Jan 2019 22:08:44 +0800</pubDate>
       
-      <guid>http://suming.me/project/su2019shuidonggou/</guid>
+      <guid>/project/su2019shuidonggou/</guid>
       <description>
 
 &lt;h2 id=&#34;project-information&#34;&gt;Project Information&lt;/h2&gt;
@@ -191,10 +191,10 @@ bla ...
     
     <item>
       <title>Analysis of algae and water quality dynamics in Shuidonggou Reservoir</title>
-      <link>http://suming.me/project/su2017shuidonggou/</link>
+      <link>/project/su2017shuidonggou/</link>
       <pubDate>Fri, 25 Jan 2019 22:01:44 +0800</pubDate>
       
-      <guid>http://suming.me/project/su2017shuidonggou/</guid>
+      <guid>/project/su2017shuidonggou/</guid>
       <description>
 
 &lt;h2 id=&#34;project-information&#34;&gt;Project Information&lt;/h2&gt;
@@ -211,10 +211,10 @@ bla ...
     
     <item>
       <title>Final Report for Project &#39;su2015miyunnsf&#39;</title>
-      <link>http://suming.me/post/20190125_su2015miyunnsf/</link>
+      <link>/post/20190125_su2015miyunnsf/</link>
       <pubDate>Fri, 25 Jan 2019 12:30:55 +0800</pubDate>
       
-      <guid>http://suming.me/post/20190125_su2015miyunnsf/</guid>
+      <guid>/post/20190125_su2015miyunnsf/</guid>
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
@@ -225,10 +225,10 @@ bla ...
     
     <item>
       <title>Licensed contract of cell counting tool</title>
-      <link>http://suming.me/project/su2017daxing/</link>
+      <link>/project/su2017daxing/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://suming.me/project/su2017daxing/</guid>
+      <guid>/project/su2017daxing/</guid>
       <description>
 
 &lt;h2 id=&#34;project-information&#34;&gt;Project Information&lt;/h2&gt;
@@ -247,37 +247,37 @@ bla ...
     
     <item>
       <title>Humic acid removal by gas–liquid interface discharge plasma: performance, mechanism and comparison to ozonation</title>
-      <link>http://suming.me/publication/cui-2019-humic/</link>
+      <link>/publication/cui-2019-humic/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/publication/cui-2019-humic/</guid>
+      <guid>/publication/cui-2019-humic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synergistic effect of musty odorants on septic odor: Verification in Huangpu River source water</title>
-      <link>http://suming.me/publication/guo-2019-synergistic/</link>
+      <link>/publication/guo-2019-synergistic/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/publication/guo-2019-synergistic/</guid>
+      <guid>/publication/guo-2019-synergistic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>西安建筑科技大学水库研究交流</title>
-      <link>http://suming.me/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</link>
+      <link>/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</link>
       <pubDate>Wed, 21 Nov 2018 09:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</guid>
+      <guid>/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A review of Cell Counting Tool (CCT)</title>
-      <link>http://suming.me/post/20180926_cct_review/</link>
+      <link>/post/20180926_cct_review/</link>
       <pubDate>Tue, 25 Sep 2018 12:30:55 +0000</pubDate>
       
-      <guid>http://suming.me/post/20180926_cct_review/</guid>
+      <guid>/post/20180926_cct_review/</guid>
       <description>
 
 
@@ -305,10 +305,10 @@ bla ...
     
     <item>
       <title>R Markdown Page</title>
-      <link>http://suming.me/docs/rmarkdown/</link>
+      <link>/docs/rmarkdown/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://suming.me/docs/rmarkdown/</guid>
+      <guid>/docs/rmarkdown/</guid>
       <description>
 
 &lt;p&gt;This page provides an example of using R Markdown.&lt;/p&gt;
@@ -322,16 +322,16 @@ df
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;pre&gt;&lt;code&gt;##     x     y
-## 1   1  1.27
-## 2   2  2.46
-## 3   3  3.16
-## 4   4  3.56
-## 5   5  5.39
-## 6   6  5.94
-## 7   7  8.20
-## 8   8  9.50
-## 9   9  9.06
-## 10 10 11.32
+## 1   1  0.39
+## 2   2  1.17
+## 3   3  3.17
+## 4   4  4.05
+## 5   5  4.39
+## 6   6  5.97
+## 7   7  5.51
+## 8   8  7.43
+## 9   9 10.55
+## 10 10 10.63
 &lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>

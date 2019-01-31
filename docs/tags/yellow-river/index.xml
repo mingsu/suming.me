@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yellow River on Ming Su | 苏命</title>
-    <link>http://suming.me/tags/yellow-river/</link>
+    <link>/tags/yellow-river/</link>
     <description>Recent content in Yellow River on Ming Su | 苏命</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="http://suming.me/tags/yellow-river/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/yellow-river/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Source-water odor during winter in the Yellow River area of China: Occurrence and diagnosis</title>
-      <link>http://suming.me/publication/li-2016-source/</link>
+      <link>/publication/li-2016-source/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/publication/li-2016-source/</guid>
+      <guid>/publication/li-2016-source/</guid>
       <description></description>
     </item>
     

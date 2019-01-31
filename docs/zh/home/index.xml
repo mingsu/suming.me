@@ -2,131 +2,131 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on 苏命 | Ming Su</title>
-    <link>http://suming.me/zh/home/</link>
+    <link>/zh/home/</link>
     <description>Recent content in Homes on 苏命 | Ming Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="http://suming.me/zh/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/zh/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://suming.me/zh/home/hero_carousel/</link>
+      <link>/zh/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/home/hero_carousel/</guid>
+      <guid>/zh/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assuming</title>
-      <link>http://suming.me/zh/home/hero/</link>
+      <link>/zh/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/home/hero/</guid>
+      <guid>/zh/home/hero/</guid>
       <description>AS MYSELF
 -- -- V -- -- -- Star -- --  --</description>
     </item>
     
     <item>
       <title>个人简介</title>
-      <link>http://suming.me/zh/home/about/</link>
+      <link>/zh/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/home/about/</guid>
+      <guid>/zh/home/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>专业技能</title>
-      <link>http://suming.me/zh/home/skills/</link>
+      <link>/zh/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/home/skills/</guid>
+      <guid>/zh/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>工作经历</title>
-      <link>http://suming.me/zh/home/experience/</link>
+      <link>/zh/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://suming.me/zh/home/experience/</guid>
+      <guid>/zh/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>近期演讲</title>
-      <link>http://suming.me/zh/home/talks/</link>
+      <link>/zh/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/home/talks/</guid>
+      <guid>/zh/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>最新文章</title>
-      <link>http://suming.me/zh/home/posts/</link>
+      <link>/zh/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/home/posts/</guid>
+      <guid>/zh/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>特色成果</title>
-      <link>http://suming.me/zh/home/publications_featured/</link>
+      <link>/zh/home/publications_featured/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/home/publications_featured/</guid>
+      <guid>/zh/home/publications_featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>http://suming.me/zh/home/accomplishments/</link>
+      <link>/zh/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://suming.me/zh/home/accomplishments/</guid>
+      <guid>/zh/home/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>最新成果</title>
-      <link>http://suming.me/zh/home/publications/</link>
+      <link>/zh/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/home/publications/</guid>
+      <guid>/zh/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>特色演讲</title>
-      <link>http://suming.me/zh/home/talks_featured/</link>
+      <link>/zh/home/talks_featured/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/home/talks_featured/</guid>
+      <guid>/zh/home/talks_featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>项目</title>
-      <link>http://suming.me/zh/home/projects/</link>
+      <link>/zh/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/home/projects/</guid>
+      <guid>/zh/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://suming.me/zh/home/teaching/</link>
+      <link>/zh/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/home/teaching/</guid>
+      <guid>/zh/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 I am a teaching instructor for the following courses at University X:
  CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
@@ -134,19 +134,19 @@ I am a teaching instructor for the following courses at University X:
     
     <item>
       <title>Tags</title>
-      <link>http://suming.me/zh/home/tags/</link>
+      <link>/zh/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/home/tags/</guid>
+      <guid>/zh/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>联系我</title>
-      <link>http://suming.me/zh/home/contact/</link>
+      <link>/zh/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/home/contact/</guid>
+      <guid>/zh/home/contact/</guid>
       <description></description>
     </item>
     

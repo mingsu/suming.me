@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>linux on 苏命 | Ming Su</title>
-    <link>http://suming.me/zh/tags/linux/</link>
+    <link>/zh/tags/linux/</link>
     <description>Recent content in linux on 苏命 | Ming Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Mon, 16 Feb 2015 12:30:55 +0000</lastBuildDate>
     
-	<atom:link href="http://suming.me/zh/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/zh/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My favorate tools list</title>
-      <link>http://suming.me/zh/post/20150216_favoratetools/</link>
+      <link>/zh/post/20150216_favoratetools/</link>
       <pubDate>Mon, 16 Feb 2015 12:30:55 +0000</pubDate>
       
-      <guid>http://suming.me/zh/post/20150216_favoratetools/</guid>
+      <guid>/zh/post/20150216_favoratetools/</guid>
       <description>I prefer to use command line tools (CLI). Here is a list that I am using and enjoying.
  OS: debian/ubuntu (95%) + windows(5%) windows manager: FVWM reminder: conky+remind+wyrd calendar: conky+remind+web shell: zsh+tmux mail: mutt/getmail/msmtp contactor: abook document (doc): markdown (60%) + MS word (30%, under windows) + wps (10%) presentation: MS powerpoint (70%, under windows) + html5 slides (30%) scientific publish/thesis: latex (texlive) pdf reader: okular note: note editor: vim remote operating: ssh remote desktop: remmina virtual OS: virtualbox database: mysql file manager: ranger internet expolor: firefox + uzbl ftp: lftpd image editor: gimp music player: mocp video player: vlc data analysis: R/matlab/python dictionary: iciba.</description>
     </item>
     
     <item>
       <title>Setup MySQL connection using R in GNU linux</title>
-      <link>http://suming.me/zh/post/20141221_mysql_skill/</link>
+      <link>/zh/post/20141221_mysql_skill/</link>
       <pubDate>Sun, 21 Dec 2014 19:52:39 +0000</pubDate>
       
-      <guid>http://suming.me/zh/post/20141221_mysql_skill/</guid>
+      <guid>/zh/post/20141221_mysql_skill/</guid>
       <description> Aim To connect mysql database using R is very important if you want to do some data analysis, I have extreamly bad experience on setting up it in GNU/linux, as I know, it is not easy to setup in windows as well.
  Install Install libmysqlclient-dev sudo apt-get install libmysqlclient-dev  download and install RMySQL wget http://cran.r-project.org/src/contrib/RMySQL_0.9-3.tar.gz R CMD INSTALL --configure-args=&amp;#39;--with-mysql-dir=/usr/lib&amp;#39; RMySQL_0.9-3.tar.gz    </description>
     </item>
     
     <item>
       <title>Using kermit for downloading data from YSI-terminal 650MDS under linux</title>
-      <link>http://suming.me/zh/post/20141209_ysi_skill/</link>
+      <link>/zh/post/20141209_ysi_skill/</link>
       <pubDate>Tue, 09 Dec 2014 18:28:54 +0000</pubDate>
       
-      <guid>http://suming.me/zh/post/20141209_ysi_skill/</guid>
+      <guid>/zh/post/20141209_ysi_skill/</guid>
       <description>Aim The offical ECO-Watch software only support on Windows systems.
 By using kermit, we can simply download data in YSI-terminal 650DMS through serial port connection.
  Installation  apt-get install ckermit or
@@ -47,20 +47,20 @@ pacman -S ckermit  configuration cat ~/.kermrc set line /dev/ttyUSB0 set speed 9
     
     <item>
       <title>Schedule your time by using remind, wyrd, conky as well as rem2html</title>
-      <link>http://suming.me/zh/post/201411121_schedule_by_remind_wyrd/</link>
+      <link>/zh/post/201411121_schedule_by_remind_wyrd/</link>
       <pubDate>Fri, 21 Nov 2014 21:38:17 +0000</pubDate>
       
-      <guid>http://suming.me/zh/post/201411121_schedule_by_remind_wyrd/</guid>
+      <guid>/zh/post/201411121_schedule_by_remind_wyrd/</guid>
       <description>How do you schedule your time? I was using gcalcli for couple years, however, it is become very difficult to use in mainland China, due to the GFW policy; on the other hand, I prefer to using my own server other than using the server from others, in this case google calendar.
 So I start to find a better solution. Fortunately, I managed it by using remind, wyrd, conky and rem2html.</description>
     </item>
     
     <item>
       <title>Setting up a bash command to post on jekyll based blog</title>
-      <link>http://suming.me/zh/post/20141102_jekyll_blog/</link>
+      <link>/zh/post/20141102_jekyll_blog/</link>
       <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://suming.me/zh/post/20141102_jekyll_blog/</guid>
+      <guid>/zh/post/20141102_jekyll_blog/</guid>
       <description>It is very time-consuming to write up the HEADLINE of your each post. This article is aiming to show you a bash command based way to set up the HEADLINE in the post.
 #!/bin/bash ## ~/bin/wa hppath=&amp;quot;~/u2/www/homepage&amp;quot; d=`date &amp;#39;+%Y-%m-%d&amp;#39;` t=`date &amp;#39;+%b %d, %Y %H:%M:%S&amp;#39;` filename=${1// /_} head=&amp;quot;---\n&amp;quot; cd ~/u2/www/homepage/_posts/ postpath=&amp;quot;~/u2/www/homepage/_posts&amp;quot; # touch $d&amp;quot;-&amp;quot;$filename&amp;quot;.md&amp;quot;` echo -e &amp;quot;$head&amp;quot; &amp;gt; &amp;quot;$d&amp;quot;-&amp;quot;$filename&amp;quot;.md vim &amp;quot;$d&amp;quot;-&amp;quot;$filename&amp;quot;.md Add execute permission on this file:
 chmod +x ~/bin/wa Usage:</description>

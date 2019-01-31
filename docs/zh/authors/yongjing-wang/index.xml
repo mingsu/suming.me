@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yongjing Wang on 苏命 | Ming Su</title>
-    <link>http://suming.me/zh/authors/yongjing-wang/</link>
+    <link>/zh/authors/yongjing-wang/</link>
     <description>Recent content in Yongjing Wang on 苏命 | Ming Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="http://suming.me/zh/authors/yongjing-wang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/zh/authors/yongjing-wang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Multiple linear regression model for bromate formation based on the survey data of source waters from geographically different regions across China</title>
-      <link>http://suming.me/zh/publication/yu-2015-multiple/</link>
+      <link>/zh/publication/yu-2015-multiple/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/yu-2015-multiple/</guid>
+      <guid>/zh/publication/yu-2015-multiple/</guid>
       <description></description>
     </item>
     

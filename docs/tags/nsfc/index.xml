@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NSFC on Ming Su | 苏命</title>
-    <link>http://suming.me/tags/nsfc/</link>
+    <link>/tags/nsfc/</link>
     <description>Recent content in NSFC on Ming Su | 苏命</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Fri, 25 Jan 2019 12:30:55 +0800</lastBuildDate>
     
-	<atom:link href="http://suming.me/tags/nsfc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/nsfc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Final Report for Project &#39;su2015miyunnsf&#39;</title>
-      <link>http://suming.me/post/20190125_su2015miyunnsf/</link>
+      <link>/post/20190125_su2015miyunnsf/</link>
       <pubDate>Fri, 25 Jan 2019 12:30:55 +0800</pubDate>
       
-      <guid>http://suming.me/post/20190125_su2015miyunnsf/</guid>
+      <guid>/post/20190125_su2015miyunnsf/</guid>
       <description>Abstract: Miyun Reservoir, the most important surface source water for Beijing, has been suffered water crisis due to continuous drought and over-extraction during recent years; the Central Route of South-to-North Water Diversion Project (SNWDP) is expect to transfer water from Danjiangkou Reservoir to Miyun Reservoir in order to resolve the water shortage. The SNWDP will be bound to solve release the water crisis in the respect of “wa</description>
     </item>
     

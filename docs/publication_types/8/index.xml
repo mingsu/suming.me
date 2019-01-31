@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>8 on Ming Su | 苏命</title>
-    <link>http://suming.me/publication_types/8/</link>
+    <link>/publication_types/8/</link>
     <description>Recent content in 8 on Ming Su | 苏命</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Sun, 29 Jul 2018 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="http://suming.me/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Smart monitoring and management system of source water</title>
-      <link>http://suming.me/publication/smartsourcewater/</link>
+      <link>/publication/smartsourcewater/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/publication/smartsourcewater/</guid>
+      <guid>/publication/smartsourcewater/</guid>
       <description>Software Information Version: v1.0 No.: 2018SR539952 主要功能 在云平台中整合水源地在线和实验室监测分析数据，通过实时获取监测数据、在线展示数据图表、时空趋势分析以及水质模型预警等功能</description>
     </item>
     
     <item>
       <title>Cloud analysis system of phytoplankton data in source water</title>
-      <link>http://suming.me/publication/algaemanagement/</link>
+      <link>/publication/algaemanagement/</link>
       <pubDate>Sat, 21 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/publication/algaemanagement/</guid>
+      <guid>/publication/algaemanagement/</guid>
       <description>Software information Version: v1.0 No.: 2018SR539959 Functions 在云平台中基于用户需求定制藻类分析，获取实时藻类数据，优势藻种类、有害藻 种类、不同藻种的时空分布及趋势分析;定制报告。 Features 基于L</description>
     </item>
     
     <item>
       <title>Cell Counting Tool v1.4</title>
-      <link>http://suming.me/publication/cctv1.4/</link>
+      <link>/publication/cctv1.4/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/publication/cctv1.4/</guid>
+      <guid>/publication/cctv1.4/</guid>
       <description>Software Information Version: v1.4 No.: 2018SR525480 Introduction 辅助显微镜下细胞计数，藻类数据库查询，计数数据、镜检图片自动归档，数据分析，可视化。 技术特点 结合显微镜计数原理，将传统机械式计</description>
     </item>
     

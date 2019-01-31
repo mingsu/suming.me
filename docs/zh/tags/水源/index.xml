@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>水源 on 苏命 | Ming Su</title>
-    <link>http://suming.me/zh/tags/%E6%B0%B4%E6%BA%90/</link>
+    <link>/zh/tags/%E6%B0%B4%E6%BA%90/</link>
     <description>Recent content in 水源 on 苏命 | Ming Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Fri, 25 Jan 2019 22:28:44 +0800</lastBuildDate>
     
-	<atom:link href="http://suming.me/zh/tags/%E6%B0%B4%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/zh/tags/%E6%B0%B4%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>典型大城市水源地水库水环境质量评估</title>
-      <link>http://suming.me/zh/project/su2019casreservoir/</link>
+      <link>/zh/project/su2019casreservoir/</link>
       <pubDate>Fri, 25 Jan 2019 22:28:44 +0800</pubDate>
       
-      <guid>http://suming.me/zh/project/su2019casreservoir/</guid>
+      <guid>/zh/project/su2019casreservoir/</guid>
       <description>项目信息 项目类别：中国科学院 经费：20 万 负责人：苏命 执行年限：2019年01月-2021年12月 项目编号：KFJ-SW-YW036</description>
     </item>
     

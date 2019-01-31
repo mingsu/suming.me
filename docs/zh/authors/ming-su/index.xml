@@ -2,240 +2,240 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ming Su on 苏命 | Ming Su</title>
-    <link>http://suming.me/zh/authors/ming-su/</link>
+    <link>/zh/authors/ming-su/</link>
     <description>Recent content in Ming Su on 苏命 | Ming Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Tue, 29 Jan 2019 22:08:42 +0800</lastBuildDate>
     
-	<atom:link href="http://suming.me/zh/authors/ming-su/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/zh/authors/ming-su/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>&#39;su2018jinze&#39;项目结题报告</title>
-      <link>http://suming.me/zh/post/su2018jinze_progress2018/</link>
+      <link>/zh/post/su2018jinze_progress2018/</link>
       <pubDate>Tue, 29 Jan 2019 22:08:42 +0800</pubDate>
       
-      <guid>http://suming.me/zh/post/su2018jinze_progress2018/</guid>
+      <guid>/zh/post/su2018jinze_progress2018/</guid>
       <description>&amp;lsquo;su2018jinze&amp;rsquo;项目结题报告。</description>
     </item>
     
     <item>
       <title>Hugo 网站中的Markdown 语法备忘</title>
-      <link>http://suming.me/zh/post/20190129_markdownexample/</link>
+      <link>/zh/post/20190129_markdownexample/</link>
       <pubDate>Tue, 29 Jan 2019 15:30:55 +0800</pubDate>
       
-      <guid>http://suming.me/zh/post/20190129_markdownexample/</guid>
+      <guid>/zh/post/20190129_markdownexample/</guid>
       <description>The solutions are mainly derived from Yihui&amp;rsquo;s JS library. Code By using: ` ` `r a &amp;lt;- 1 + 1 ... ` ` ` produces: a = 1 + 1 ... MathJax Solution: Add math-code.js. to static/js/. Add the following lines to layouts/partials/footer_section.html. &amp;lt;!-- 加入MathJax, 用于Markdown中输入数学公</description>
     </item>
     
     <item>
       <title>浮游植物鉴定图谱</title>
-      <link>http://suming.me/zh/post/20190128_phytoplanktonidentification/</link>
+      <link>/zh/post/20190128_phytoplanktonidentification/</link>
       <pubDate>Sun, 27 Jan 2019 12:30:55 +0800</pubDate>
       
-      <guid>http://suming.me/zh/post/20190128_phytoplanktonidentification/</guid>
+      <guid>/zh/post/20190128_phytoplanktonidentification/</guid>
       <description>浮游植物鉴定图谱。 全文链接</description>
     </item>
     
     <item>
       <title>水洞沟水库藻类及水质变化分析研究</title>
-      <link>http://suming.me/zh/project/su2017shuidonggou/</link>
+      <link>/zh/project/su2017shuidonggou/</link>
       <pubDate>Fri, 25 Jan 2019 22:01:44 +0800</pubDate>
       
-      <guid>http://suming.me/zh/project/su2017shuidonggou/</guid>
+      <guid>/zh/project/su2017shuidonggou/</guid>
       <description>项目信息 项目类别：企业横向 经费：5 万 负责人：苏命 执行年限：2017年06月-2018年05月 项目编号：20170232</description>
     </item>
     
     <item>
       <title>&#39;su2015miyunnsf&#39;项目结题报告</title>
-      <link>http://suming.me/zh/post/20190125_su2015miyunnsf/</link>
+      <link>/zh/post/20190125_su2015miyunnsf/</link>
       <pubDate>Fri, 25 Jan 2019 12:30:55 +0800</pubDate>
       
-      <guid>http://suming.me/zh/post/20190125_su2015miyunnsf/</guid>
+      <guid>/zh/post/20190125_su2015miyunnsf/</guid>
       <description>摘要 密云水库为北京市最重要的地表水水源地，近年来由于长期干旱与超采，存水量严 重不足;为缓解密云水库水危机，南水北调中线预计于2015年向密云</description>
     </item>
     
     <item>
       <title>Humic acid removal by gas–liquid interface discharge plasma: performance, mechanism and comparison to ozonation</title>
-      <link>http://suming.me/zh/publication/cui-2019-humic/</link>
+      <link>/zh/publication/cui-2019-humic/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/cui-2019-humic/</guid>
+      <guid>/zh/publication/cui-2019-humic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synergistic effect of musty odorants on septic odor: Verification in Huangpu River source water</title>
-      <link>http://suming.me/zh/publication/guo-2019-synergistic/</link>
+      <link>/zh/publication/guo-2019-synergistic/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/guo-2019-synergistic/</guid>
+      <guid>/zh/publication/guo-2019-synergistic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>西安建筑科技大学水库研究交流</title>
-      <link>http://suming.me/zh/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</link>
+      <link>/zh/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</link>
       <pubDate>Wed, 21 Nov 2018 09:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</guid>
+      <guid>/zh/talk/20181121_%E8%A5%BF%E5%AE%89%E5%BB%BA%E7%AD%91%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E4%BA%A4%E6%B5%81/</guid>
       <description></description>
     </item>
     
     <item>
       <title>水源研究梳理</title>
-      <link>http://suming.me/zh/talk/20180831_%E6%B0%B4%E5%BA%93%E7%A0%94%E7%A9%B6%E8%AE%A8%E8%AE%BA/</link>
+      <link>/zh/talk/20180831_%E6%B0%B4%E5%BA%93%E7%A0%94%E7%A9%B6%E8%AE%A8%E8%AE%BA/</link>
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/talk/20180831_%E6%B0%B4%E5%BA%93%E7%A0%94%E7%A9%B6%E8%AE%A8%E8%AE%BA/</guid>
+      <guid>/zh/talk/20180831_%E6%B0%B4%E5%BA%93%E7%A0%94%E7%A9%B6%E8%AE%A8%E8%AE%BA/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Succession and interaction of surface and subsurface cyanobacterial blooms in oligotrophic/mesotrophic reservoirs: a case study in Miyun Reservoir</title>
-      <link>http://suming.me/zh/publication/su-2019-succession/</link>
+      <link>/zh/publication/su-2019-succession/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/su-2019-succession/</guid>
+      <guid>/zh/publication/su-2019-succession/</guid>
       <description> Highlights  High light and nutrient at pre-bloom stage are essential for surface cyanobacteria. Surface cell decline enhanced underwater light thus promoted subsurface cyanobacteria. Subsurface cyanobacteria prefer to grow in shallow oligotrophic/deep eutrophic water.  </description>
     </item>
     
     <item>
       <title>Poster@ISME17</title>
-      <link>http://suming.me/zh/talk/20180813_isme17/</link>
+      <link>/zh/talk/20180813_isme17/</link>
       <pubDate>Mon, 13 Aug 2018 15:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/talk/20180813_isme17/</guid>
+      <guid>/zh/talk/20180813_isme17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>智慧水源水质监测与预警管理系统v1.0</title>
-      <link>http://suming.me/zh/publication/smartsourcewater/</link>
+      <link>/zh/publication/smartsourcewater/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/smartsourcewater/</guid>
+      <guid>/zh/publication/smartsourcewater/</guid>
       <description>软件著作权基本信息 版本号：v1.0 登记号：2018SR539952 主要功能 在云平台中整合水源地在线和实验室监测分析数据，通过实时获取监测数据</description>
     </item>
     
     <item>
       <title>青草沙水库嗅味问题分析报告</title>
-      <link>http://suming.me/zh/post/qcsodor2018/</link>
+      <link>/zh/post/qcsodor2018/</link>
       <pubDate>Wed, 25 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/post/qcsodor2018/</guid>
+      <guid>/zh/post/qcsodor2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>吴江东太湖备用水源水库2018年6月嗅味问题解析报告</title>
-      <link>http://suming.me/zh/post/wujiang180607/</link>
+      <link>/zh/post/wujiang180607/</link>
       <pubDate>Sun, 22 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/post/wujiang180607/</guid>
+      <guid>/zh/post/wujiang180607/</guid>
       <description></description>
     </item>
     
     <item>
       <title>青草沙水库2018年5月23日检测报告</title>
-      <link>http://suming.me/zh/post/qcs180523/</link>
+      <link>/zh/post/qcs180523/</link>
       <pubDate>Sun, 22 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/post/qcs180523/</guid>
+      <guid>/zh/post/qcs180523/</guid>
       <description></description>
     </item>
     
     <item>
       <title>水源地藻类分析管理系统</title>
-      <link>http://suming.me/zh/publication/algaemanagement/</link>
+      <link>/zh/publication/algaemanagement/</link>
       <pubDate>Sat, 21 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/algaemanagement/</guid>
+      <guid>/zh/publication/algaemanagement/</guid>
       <description>软件著作权基本信息 版本号：v1.0 登记号：2018SR539959 主要功能 在云平台中基于用户需求定制藻类分析，获取实时藻类数据，优势藻种类、</description>
     </item>
     
     <item>
       <title>藻类计数系统v1.4</title>
-      <link>http://suming.me/zh/publication/cctv1.4/</link>
+      <link>/zh/publication/cctv1.4/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/cctv1.4/</guid>
+      <guid>/zh/publication/cctv1.4/</guid>
       <description>软件著作权基本信息 版本号：v1.4 登记号：2018SR525480 主要功能 辅助显微镜下细胞计数，藻类数据库查询，计数数据、镜检图片自动归档，</description>
     </item>
     
     <item>
       <title>Reducing production of taste and odor by deep-living cyanobacteria in drinking water reservoirs by regulation of water level</title>
-      <link>http://suming.me/zh/publication/su-2017-reducing/</link>
+      <link>/zh/publication/su-2017-reducing/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/su-2017-reducing/</guid>
+      <guid>/zh/publication/su-2017-reducing/</guid>
       <description> Highlights  Water level lowering triggered the deep living cyanobacteria bloom in Miyun Reservoir. The shallow areas in Miyun Reservoir are the major habitats for Planktothrix sp. The Planktothrix could bloom in mesotrophic water due to its low light requirement.  </description>
     </item>
     
     <item>
       <title>Source-water odor during winter in the Yellow River area of China: Occurrence and diagnosis</title>
-      <link>http://suming.me/zh/publication/li-2016-source/</link>
+      <link>/zh/publication/li-2016-source/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/li-2016-source/</guid>
+      <guid>/zh/publication/li-2016-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Study of odor-producing Planktothrix sp. in Miyun Reservoir, regarding the ecological niche identification, regulation and control strategy</title>
-      <link>http://suming.me/zh/publication/su2015study/</link>
+      <link>/zh/publication/su2015study/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/su2015study/</guid>
+      <guid>/zh/publication/su2015study/</guid>
       <description>MIB producing potential of Planktothrix sp. The production of odorant methylisoborneol (MIB) in water bodies by Planktothrix sp. have not been understood very well. Through a four-year investigation in Miyun Reservoir, a huge mesotrophic drinking water reservoir known to have the MIB episodes, we found that the Planktothrix sp. bloomed during September and October causing the high levels of MIB in the reservoir. The concentration of MIB and the biomass of MIB-producing cyanobacteria Planktothrix sp.</description>
     </item>
     
     <item>
       <title>My favorate tools list</title>
-      <link>http://suming.me/zh/post/20150216_favoratetools/</link>
+      <link>/zh/post/20150216_favoratetools/</link>
       <pubDate>Mon, 16 Feb 2015 12:30:55 +0000</pubDate>
       
-      <guid>http://suming.me/zh/post/20150216_favoratetools/</guid>
+      <guid>/zh/post/20150216_favoratetools/</guid>
       <description>I prefer to use command line tools (CLI). Here is a list that I am using and enjoying.
  OS: debian/ubuntu (95%) + windows(5%) windows manager: FVWM reminder: conky+remind+wyrd calendar: conky+remind+web shell: zsh+tmux mail: mutt/getmail/msmtp contactor: abook document (doc): markdown (60%) + MS word (30%, under windows) + wps (10%) presentation: MS powerpoint (70%, under windows) + html5 slides (30%) scientific publish/thesis: latex (texlive) pdf reader: okular note: note editor: vim remote operating: ssh remote desktop: remmina virtual OS: virtualbox database: mysql file manager: ranger internet expolor: firefox + uzbl ftp: lftpd image editor: gimp music player: mocp video player: vlc data analysis: R/matlab/python dictionary: iciba.</description>
     </item>
     
     <item>
       <title>MIB-producing cyanobacteria (Planktothrix sp.) in a drinking water reservoir: Distribution and odor producing potential</title>
-      <link>http://suming.me/zh/publication/su-2015-mib/</link>
+      <link>/zh/publication/su-2015-mib/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/su-2015-mib/</guid>
+      <guid>/zh/publication/su-2015-mib/</guid>
       <description> Highlights  Water level lowering triggered the deep living cyanobacteria bloom in Miyun Reservoir. The shallow areas in Miyun Reservoir are the major habitats for Planktothrix sp. The Planktothrix could bloom in mesotrophic water due to its low light requirement.  </description>
     </item>
     
     <item>
       <title>Multiple linear regression model for bromate formation based on the survey data of source waters from geographically different regions across China</title>
-      <link>http://suming.me/zh/publication/yu-2015-multiple/</link>
+      <link>/zh/publication/yu-2015-multiple/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/yu-2015-multiple/</guid>
+      <guid>/zh/publication/yu-2015-multiple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Setup MySQL connection using R in GNU linux</title>
-      <link>http://suming.me/zh/post/20141221_mysql_skill/</link>
+      <link>/zh/post/20141221_mysql_skill/</link>
       <pubDate>Sun, 21 Dec 2014 19:52:39 +0000</pubDate>
       
-      <guid>http://suming.me/zh/post/20141221_mysql_skill/</guid>
+      <guid>/zh/post/20141221_mysql_skill/</guid>
       <description> Aim To connect mysql database using R is very important if you want to do some data analysis, I have extreamly bad experience on setting up it in GNU/linux, as I know, it is not easy to setup in windows as well.
  Install Install libmysqlclient-dev sudo apt-get install libmysqlclient-dev  download and install RMySQL wget http://cran.r-project.org/src/contrib/RMySQL_0.9-3.tar.gz R CMD INSTALL --configure-args=&amp;#39;--with-mysql-dir=/usr/lib&amp;#39; RMySQL_0.9-3.tar.gz    </description>
     </item>
     
     <item>
       <title>Using kermit for downloading data from YSI-terminal 650MDS under linux</title>
-      <link>http://suming.me/zh/post/20141209_ysi_skill/</link>
+      <link>/zh/post/20141209_ysi_skill/</link>
       <pubDate>Tue, 09 Dec 2014 18:28:54 +0000</pubDate>
       
-      <guid>http://suming.me/zh/post/20141209_ysi_skill/</guid>
+      <guid>/zh/post/20141209_ysi_skill/</guid>
       <description>Aim The offical ECO-Watch software only support on Windows systems.
 By using kermit, we can simply download data in YSI-terminal 650DMS through serial port connection.
  Installation  apt-get install ckermit or
@@ -245,10 +245,10 @@ pacman -S ckermit  configuration cat ~/.kermrc set line /dev/ttyUSB0 set speed 9
     
     <item>
       <title>Download or upload waypoints or tracks from gps under GNU linux by gpsbabel</title>
-      <link>http://suming.me/zh/post/20141209_gps_skill/</link>
+      <link>/zh/post/20141209_gps_skill/</link>
       <pubDate>Tue, 09 Dec 2014 17:29:10 +0000</pubDate>
       
-      <guid>http://suming.me/zh/post/20141209_gps_skill/</guid>
+      <guid>/zh/post/20141209_gps_skill/</guid>
       <description>Aim I have got a garmin etrex gps which is very old but working pretty well; its major work is for sampling sites navigation in lakes/reservoirs.
 By using GPSbabel, I can easily download/upload waypoints/tracks from gps devices under GNU linux.
  communication through rs232 protocal My workstation doesn’t have a serial port, so I use a usb2serial cable for doing this. In my case, I could find my serial device here:</description>
@@ -256,10 +256,10 @@ By using GPSbabel, I can easily download/upload waypoints/tracks from gps device
     
     <item>
       <title>The solution for Google searching in mainland China</title>
-      <link>http://suming.me/zh/post/20141206_google/</link>
+      <link>/zh/post/20141206_google/</link>
       <pubDate>Sat, 06 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://suming.me/zh/post/20141206_google/</guid>
+      <guid>/zh/post/20141206_google/</guid>
       <description>I have recently found a good solution for searching with google.
 It is not based on vpn nor host file.
 Just simply use
@@ -274,10 +274,10 @@ Good luck!</description>
     
     <item>
       <title>Don&#39;t let your tear be the last drop of water in the world- my peasonal logo</title>
-      <link>http://suming.me/zh/post/20141123_tear_tobe_last_water/</link>
+      <link>/zh/post/20141123_tear_tobe_last_water/</link>
       <pubDate>Fri, 21 Nov 2014 21:38:17 +0000</pubDate>
       
-      <guid>http://suming.me/zh/post/20141123_tear_tobe_last_water/</guid>
+      <guid>/zh/post/20141123_tear_tobe_last_water/</guid>
       <description>Inspired by
  Don’t let your tear be the last drop of water in the world
  I designed my peasonal logo.
@@ -288,29 +288,29 @@ Water give the planet life.</description>
     
     <item>
       <title>Schedule your time by using remind, wyrd, conky as well as rem2html</title>
-      <link>http://suming.me/zh/post/201411121_schedule_by_remind_wyrd/</link>
+      <link>/zh/post/201411121_schedule_by_remind_wyrd/</link>
       <pubDate>Fri, 21 Nov 2014 21:38:17 +0000</pubDate>
       
-      <guid>http://suming.me/zh/post/201411121_schedule_by_remind_wyrd/</guid>
+      <guid>/zh/post/201411121_schedule_by_remind_wyrd/</guid>
       <description>How do you schedule your time? I was using gcalcli for couple years, however, it is become very difficult to use in mainland China, due to the GFW policy; on the other hand, I prefer to using my own server other than using the server from others, in this case google calendar.
 So I start to find a better solution. Fortunately, I managed it by using remind, wyrd, conky and rem2html.</description>
     </item>
     
     <item>
       <title>土豪与屌丝</title>
-      <link>http://suming.me/zh/post/20141209_tuhao/</link>
+      <link>/zh/post/20141209_tuhao/</link>
       <pubDate>Sun, 09 Nov 2014 13:45:44 +0000</pubDate>
       
-      <guid>http://suming.me/zh/post/20141209_tuhao/</guid>
+      <guid>/zh/post/20141209_tuhao/</guid>
       <description>正常人： 屌丝: 土豪：</description>
     </item>
     
     <item>
       <title>Setting up a bash command to post on jekyll based blog</title>
-      <link>http://suming.me/zh/post/20141102_jekyll_blog/</link>
+      <link>/zh/post/20141102_jekyll_blog/</link>
       <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://suming.me/zh/post/20141102_jekyll_blog/</guid>
+      <guid>/zh/post/20141102_jekyll_blog/</guid>
       <description>It is very time-consuming to write up the HEADLINE of your each post. This article is aiming to show you a bash command based way to set up the HEADLINE in the post.
 #!/bin/bash ## ~/bin/wa hppath=&amp;quot;~/u2/www/homepage&amp;quot; d=`date &amp;#39;+%Y-%m-%d&amp;#39;` t=`date &amp;#39;+%b %d, %Y %H:%M:%S&amp;#39;` filename=${1// /_} head=&amp;quot;---\n&amp;quot; cd ~/u2/www/homepage/_posts/ postpath=&amp;quot;~/u2/www/homepage/_posts&amp;quot; # touch $d&amp;quot;-&amp;quot;$filename&amp;quot;.md&amp;quot;` echo -e &amp;quot;$head&amp;quot; &amp;gt; &amp;quot;$d&amp;quot;-&amp;quot;$filename&amp;quot;.md vim &amp;quot;$d&amp;quot;-&amp;quot;$filename&amp;quot;.md Add execute permission on this file:
 chmod +x ~/bin/wa Usage:</description>
@@ -318,55 +318,55 @@ chmod +x ~/bin/wa Usage:</description>
     
     <item>
       <title>Cancer risk assessment on trihalomethanes and haloacetic acids in drinking water of China using disability-adjusted life years</title>
-      <link>http://suming.me/zh/publication/pan-2014-cancer/</link>
+      <link>/zh/publication/pan-2014-cancer/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/pan-2014-cancer/</guid>
+      <guid>/zh/publication/pan-2014-cancer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importance of underwater light field in selecting phytoplankton morphology in a eutrophic reservoir</title>
-      <link>http://suming.me/zh/publication/su-2014-important/</link>
+      <link>/zh/publication/su-2014-important/</link>
       <pubDate>Wed, 06 Nov 2013 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/su-2014-important/</guid>
+      <guid>/zh/publication/su-2014-important/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Establishment of quantitative PCR methods for the quantification of geosmin-producing potential and Anabaena sp. in freshwater systems</title>
-      <link>http://suming.me/zh/publication/su-2013-establishment/</link>
+      <link>/zh/publication/su-2013-establishment/</link>
       <pubDate>Sat, 15 Jun 2013 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/su-2013-establishment/</guid>
+      <guid>/zh/publication/su-2013-establishment/</guid>
       <description> Highlights  We designed primers targeting for Anabaena rpoC₁ gene and geosmin synthase gene. We constructed two qPCR assays aim for quantifying general Anabaena population and geosmin-produce potential. Both qPCR were verified by simulated culture bloom and field samples, hence are applicable. Compared to traditional methods, the two qPCR assays provide fast, simple and on-site approach.  </description>
     </item>
     
     <item>
       <title>Algal growth dynamics in drinking water reservoir and the driving force</title>
-      <link>http://suming.me/zh/publication/su2013algal/</link>
+      <link>/zh/publication/su2013algal/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/su2013algal/</guid>
+      <guid>/zh/publication/su2013algal/</guid>
       <description>Rapid detection method of Anabaena associated with odorous compound based on qPCR in freshwater system: Geosmin has often been associated with off-flavor problems in drinking water with Anabaena sp. as the major producer. Rapid on-site detection of geosmin-producers as well as geosmin is important for a timely management response to potential off-flavor events. In this study, quantitative polymerase chain reaction (qPCR) methods were developed to detect the levels of Anabaena sp.</description>
     </item>
     
     <item>
       <title>Spatial and temporal variations of two cyanobacteria in the mesotrophic Miyun reservoir, China</title>
-      <link>http://suming.me/zh/publication/su-2014-spatial/</link>
+      <link>/zh/publication/su-2014-spatial/</link>
       <pubDate>Fri, 01 Feb 2013 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/su-2014-spatial/</guid>
+      <guid>/zh/publication/su-2014-spatial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A fishy odor episode in a north China reservoir: Occurrence, origin, and possible odor causing compounds</title>
-      <link>http://suming.me/zh/publication/zhao-2013-fishy/</link>
+      <link>/zh/publication/zhao-2013-fishy/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
       
-      <guid>http://suming.me/zh/publication/zhao-2013-fishy/</guid>
+      <guid>/zh/publication/zhao-2013-fishy/</guid>
       <description></description>
     </item>
     

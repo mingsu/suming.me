@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jinze on Ming Su | 苏命</title>
-    <link>http://suming.me/tags/jinze/</link>
+    <link>/tags/jinze/</link>
     <description>Recent content in Jinze on Ming Su | 苏命</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; [Ming Su](/) 2014 -2019</copyright>
     <lastBuildDate>Tue, 29 Jan 2019 22:08:42 +0800</lastBuildDate>
     
-	<atom:link href="http://suming.me/tags/jinze/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/jinze/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Final report of project &#39;su2018jinze&#39;</title>
-      <link>http://suming.me/post/su2018jinze_progress2018/</link>
+      <link>/post/su2018jinze_progress2018/</link>
       <pubDate>Tue, 29 Jan 2019 22:08:42 +0800</pubDate>
       
-      <guid>http://suming.me/post/su2018jinze_progress2018/</guid>
+      <guid>/post/su2018jinze_progress2018/</guid>
       <description>Final report of project &amp;lsquo;su2018jinze&amp;rsquo;.</description>
     </item>
     
     <item>
       <title>Control strategies of algal bloom and odor problem in Jinze Reservoir</title>
-      <link>http://suming.me/project/su2018jinzeodor/</link>
+      <link>/project/su2018jinzeodor/</link>
       <pubDate>Fri, 25 Jan 2019 22:18:44 +0800</pubDate>
       
-      <guid>http://suming.me/project/su2018jinzeodor/</guid>
+      <guid>/project/su2018jinzeodor/</guid>
       <description> Project Information  From: Shanghai urban construction investment co., LTD Founding: ￥0.50 M Host: Ming Su/Jianwei Yu Period:Jun, 2018 - May, 2020 Grant No.: 20180531  </description>
     </item>
     
